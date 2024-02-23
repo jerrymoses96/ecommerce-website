@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-next-arrow {
+  font-size: 36px !important;
+  color: #4caf50;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  right: 30px;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+.custom-prev-arrow {
+  font-size: 36px !important;
+  color: #4caf50;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 30px;
+  transform: translateY(-50%);
+  z-index: 1;
+}
