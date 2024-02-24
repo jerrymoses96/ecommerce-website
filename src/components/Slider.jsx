@@ -36,8 +36,7 @@ const CustomNextArrow = (props) => {
   );
 };
 
-const ImageSlider = ({ images,heading }) => {
-  console.log(heading);
+const ImageSlider = ({ images, heading }) => {
   const settings = {
     dots: false,
     infinite: true,
@@ -50,7 +49,7 @@ const ImageSlider = ({ images,heading }) => {
 
   return (
     <div className="slider-container text-center w-[80%] mx-auto  ">
-    <h1 className="my-28 font-semibold text-3xl">{heading}</h1>  
+      <h1 className="my-28 font-semibold text-3xl">{heading}</h1>
       <Slider {...settings}>
         {images.map((image, index) => (
           <div

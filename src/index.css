@@ -25,3 +25,13 @@
   transform: translateY(-50%);
   z-index: 1;
 }
+
+.body-style {
+  background-color: #ececec;
+}
+.footer-top {
+  background-color: #ffffff;
+}
+.footer-mid {
+  background-color: #ececec;
+}
