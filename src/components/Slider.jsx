@@ -1,13 +1,5 @@
-import React from "react";
 import Slider from "react-slick";
-import { FiChevronLeft, FiChevronRight } from "react-icons/fi"; // Import icons from React Icons
-import img1 from "../assets/offer section/img (1).jpg";
-import img2 from "../assets/offer section/img (2).jpg";
-import img3 from "../assets/offer section/img (3).jpg";
-import img4 from "../assets/offer section/img (4).jpg";
-import img5 from "../assets/offer section/img (5).jpg";
-import img6 from "../assets/offer section/img (6).jpg";
-import img7 from "../assets/offer section/img (7).jpg";
+import { FiChevronLeft, FiChevronRight } from "react-icons/fi";
 
 // Custom arrow component
 const CustomPrevArrow = (props) => {
@@ -21,9 +13,8 @@ const CustomPrevArrow = (props) => {
       <FiChevronLeft
         size={30}
         color="black"
-        className="text-black bg-gray-300 rounded-l-full absolute top-[-190px] left-[950px] "
-      />{" "}
-      {/* Using FiChevronLeft icon */}
+        className="text-zinc-800 bg-gray-200 rounded-l-full absolute top-[-190px] left-[950px] "
+      />
     </div>
   );
 };
@@ -39,14 +30,14 @@ const CustomNextArrow = (props) => {
       <FiChevronRight
         size={30}
         color="black"
-        className="text-black bg-gray-300 rounded-r-full absolute top-[-190px] right-[40px]"
-      />{" "}
-      {/* Using FiChevronRight icon */}
+        className="text-black bg-gray-200 rounded-r-full absolute top-[-190px] right-[40px]"
+      />
     </div>
   );
 };
 
-function MultipleItems() {
+const ImageSlider = ({ images,heading }) => {
+  console.log(heading);
   const settings = {
     dots: false,
     infinite: true,
@@ -57,15 +48,15 @@ function MultipleItems() {
     nextArrow: <CustomNextArrow />,
   };
 
-  // Array of image paths
-  const images = [img1, img2, img3, img4, img5, img6, img7];
-
   return (
     <div className="slider-container text-center w-[80%] mx-auto  ">
-      <h1 className="my-28">delicious</h1>
+    <h1 className="my-28 font-semibold text-3xl">{heading}</h1>  
       <Slider {...settings}>
         {images.map((image, index) => (
-          <div key={index} className="p-4">
+          <div
+            key={index}
+            className="p-4 hover:scale-105 transition-transform duration-300 ease-in-out"
+          >
             <img
               className="rounded-3xl shadow-lg"
               src={image}
@@ -76,6 +67,6 @@ function MultipleItems() {
       </Slider>
     </div>
   );
-}
+};
 
-export default MultipleItems;
+export default ImageSlider;

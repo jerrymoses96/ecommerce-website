@@ -18,6 +18,8 @@
   color: #4caf50;
   cursor: pointer;
   position: absolute;
+  background: transparent;
+
   top: 50%;
   left: 30px;
   transform: translateY(-50%);

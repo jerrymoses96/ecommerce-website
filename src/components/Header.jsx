@@ -42,8 +42,14 @@ const Header = () => {
             />
           </form>
           <div className="flex gap-5    ">
-            <CiHeart className="hover:scale-125" size={28} />
-            <AiOutlineShoppingCart className="hover:scale-125" size={24} />
+            <CiHeart
+              className="hover:scale-125 transition-transform duration-200 ease-in-out"
+              size={28}
+            />
+            <AiOutlineShoppingCart
+              className="hover:scale-125 transition-transform duration-200 ease-in-out"
+              size={24}
+            />
           </div>
         </div>
       </div>
