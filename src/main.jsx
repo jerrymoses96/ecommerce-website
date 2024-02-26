@@ -13,6 +13,7 @@ import Home from "./components/Home.jsx";
 import Kids from "./components/Kids.jsx";
 import Jewellery from "./components/Jewellery.jsx";
 import Gadgets from "./components/Gadgets.jsx";
+import Cart from "./components/Cart.jsx";
 
 const appRouter = createBrowserRouter([
   {
@@ -62,6 +63,10 @@ const appRouter = createBrowserRouter([
       {
         path: "/westside",
         element: <Womenswear />,
+      },
+      {
+        path: "/cart",
+        element: <Cart />,
       },
     ],
   },

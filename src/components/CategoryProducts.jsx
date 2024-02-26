@@ -5,9 +5,17 @@ import "slick-carousel/slick/slick-theme.css";
 import "../index.css";
 import PropTypes from "prop-types";
 import { IoMdStar } from "react-icons/io";
+import { useDispatch } from "react-redux";
+import { addItems } from "../utils/CartSlice";
 
 const CategoryProducts = ({ id }) => {
   const [maindata, setMaindata] = useState([]);
+
+  const dispatch = useDispatch();
+
+  const handleClick = (item) => {
+    dispatch(addItems(item));
+  };
 
   useEffect(() => {
     getData();
@@ -89,7 +97,7 @@ const CategoryProducts = ({ id }) => {
                 <div className="flex gap-1 items-center">
                   <div className="text-sm border border-b rounded-lg px-2 flex items-center  ">
                     {averageRating && averageRating.toFixed(1)}{" "}
-                    {averageRating && <IoMdStar color="green"/>}
+                    {averageRating && <IoMdStar color="green" />}
                   </div>
                   <span className="text-sm text-slate-500">
                     {averageRating && `(${ratingCount})`}
@@ -99,6 +107,14 @@ const CategoryProducts = ({ id }) => {
                 <p className="text-orange-700 font-normal">
                   {productNudgeMessage.length > 0 && "Limited stock!"}
                 </p>
+                <div className="text-center">
+                  <button
+                    className="border-2 border-red-600 rounded-r-full rounded-l-full text-base font-extralight px-2"
+                    onClick={() => handleClick(item)}
+                  >
+                    ADD TO CART
+                  </button>
+                </div>
               </div>
             </div>
           );

@@ -2,17 +2,20 @@ import { IoIosArrowDown } from "react-icons/io";
 import { CiHeart } from "react-icons/ci";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 import { Link } from "react-router-dom";
+import { useSelector } from "react-redux";
 
 const Header = () => {
+  const CartItems = useSelector((store) => store.cart.items);
+
   return (
-    <div className="flex">
+    <div className="flex sticky top-0">
       <div className=" bg-slate-800 w-2/12 py-7 pl-14">
         <Link to="/">
-        <img
-          className="w-16"
-          alt="logo"
-          src="http://www.pngimagesfree.com/LOGO/T/Tata-CLiQ/Tata-cliq-logo-PNG-White.png"
-        />
+          <img
+            className="w-16"
+            alt="logo"
+            src="http://www.pngimagesfree.com/LOGO/T/Tata-CLiQ/Tata-cliq-logo-PNG-White.png"
+          />
         </Link>
       </div>
       <div className="w-10/12">
@@ -49,10 +52,14 @@ const Header = () => {
               className="hover:scale-125 transition-transform duration-200 ease-in-out"
               size={28}
             />
-            <AiOutlineShoppingCart
-              className="hover:scale-125 transition-transform duration-200 ease-in-out"
-              size={24}
-            />
+            <div className="relative hover:scale-110 transition-transform duration-200 ease-in-out">
+              <Link to="/cart">
+                <AiOutlineShoppingCart className="" size={24} />
+              </Link>
+              <p className="bg-red-700 rounded-full px-2 py-1 flex justify-center items-center absolute top-[-10px] left-[16px] text-xs ">
+                {CartItems.length}
+              </p>
+            </div>
           </div>
         </div>
       </div>
