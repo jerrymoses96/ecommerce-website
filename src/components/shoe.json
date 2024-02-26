@@ -1,0 +1,3589 @@
+[
+  {
+    "ussid": "124055372981057",
+    "brandname": "Puma",
+    "productId": "MP000000009532628",
+    "productname": "Puma Unisex Perforated Low IDP Grey Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009532618_437Wx649H_202112181057081.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "grey9077795815425",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000009532618_437Wx649H_202112181057081.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "63",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1499.00",
+        "doubleValue": 1499,
+        "formattedValueNoDecimal": "₹1499",
+        "commaFormattedValue": "₹1,499.00",
+        "commaFormattedValueNoDecimal": "₹1,499",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹3999.00",
+        "doubleValue": 3999,
+        "formattedValueNoDecimal": "₹3999",
+        "commaFormattedValue": "₹3,999.00",
+        "commaFormattedValueNoDecimal": "₹3,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 3.19,
+    "totalNoOfReviews": 6,
+    "ratingCount": 638,
+    "webURL": "/puma-unisex-perforated-low-idp-grey-running-shoes/p-mp000000009532628",
+    "reviewUrl": "/puma-unisex-perforated-low-idp-grey-running-shoes/p-mp000000009532628/product-reviews",
+    "orgProductCode": "MP000000009532631",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Puma Unisex Perforated Low IDP Grey Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 15000,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP2|SalesorBrowsing|Purchase|BoughtXtimeAgo|Bought 143 times recently"
+    ],
+    "baseProductId": "MP000000007707166",
+    "productColor": "Grey",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i7/437Wx649H/MP000000009532618_437Wx649H_202112181057081.jpeg",
+      "//img.tatacliq.com/images/i7/437Wx649H/MP000000009532618_437Wx649H_202112181057112.jpeg",
+      "//img.tatacliq.com/images/i7/437Wx649H/MP000000009532618_437Wx649H_202112181057183.jpeg",
+      "//img.tatacliq.com/images/i7/437Wx649H/MP000000009532618_437Wx649H_202112181057204.jpeg",
+      "//img.tatacliq.com/images/i7/437Wx649H/MP000000009532618_437Wx649H_202112181057225.jpeg"
+    ]
+  },
+  {
+    "ussid": "1252364066756672348",
+    "brandname": "adidas",
+    "productId": "MP000000018607453",
+    "productname": "Adidas Men's PUREBOOST 23 Black Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018607453_437Wx649H_202308061800511.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "black9453958627329",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018607453_437Wx649H_202308061800511.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "50",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹6497.00",
+        "doubleValue": 6497,
+        "formattedValueNoDecimal": "₹6497",
+        "commaFormattedValue": "₹6,497.00",
+        "commaFormattedValueNoDecimal": "₹6,497",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹12999.00",
+        "doubleValue": 12999,
+        "formattedValueNoDecimal": "₹12999",
+        "commaFormattedValue": "₹12,999.00",
+        "commaFormattedValueNoDecimal": "₹12,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 4.67,
+    "totalNoOfReviews": 0,
+    "ratingCount": 3,
+    "webURL": "/adidas-mens-pureboost-23-black-running-shoes/p-mp000000018607453",
+    "reviewUrl": "/adidas-mens-pureboost-23-black-running-shoes/p-mp000000018607453/product-reviews",
+    "orgProductCode": "MP000000018607478",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Adidas Men's PUREBOOST 23 Black Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14999,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000018607452",
+    "productColor": "Black",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018607453_437Wx649H_202308061800511.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018607453_437Wx649H_202308061800582.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018607453_437Wx649H_202308061800403.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018607453_437Wx649H_202308061800454.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018607453_437Wx649H_202308061801035.jpeg"
+    ]
+  },
+  {
+    "ussid": "127785RSO35526",
+    "brandname": "Red Tape",
+    "productId": "MP000000020459752",
+    "productname": "Red Tape Men's FLOW Plus Black Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459746_437Wx649H_202312150254101.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "core black9502158094337",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459746_437Wx649H_202312150254101.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "70",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2280.00",
+        "doubleValue": 2280,
+        "formattedValueNoDecimal": "₹2280",
+        "commaFormattedValue": "₹2,280.00",
+        "commaFormattedValueNoDecimal": "₹2,280",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹7599.00",
+        "doubleValue": 7599,
+        "formattedValueNoDecimal": "₹7599",
+        "commaFormattedValue": "₹7,599.00",
+        "commaFormattedValueNoDecimal": "₹7,599",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/red-tape-mens-flow-plus-black-running-shoes/p-mp000000020459752",
+    "orgProductCode": "MP000000020459752",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Red Tape Men's FLOW Plus Black Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14998,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000020021093",
+    "productColor": "Core Black",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459746_437Wx649H_202312150254101.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459746_437Wx649H_202312150254072.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459746_437Wx649H_202312150254083.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459746_437Wx649H_202312150254114.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459746_437Wx649H_202312150254055.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459746_437Wx649H_202312150254096.jpeg"
+    ]
+  },
+  {
+    "ussid": "123986057005648218",
+    "brandname": "Aldo",
+    "productId": "MP000000020373241",
+    "productname": "Aldo Men's White Casual Sneakers",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020373241_437Wx649H_202312080428091.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311115",
+    "styleCode": "white9514657120257",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020373241_437Wx649H_202312080428091.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "48",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹6750.00",
+        "doubleValue": 6750,
+        "formattedValueNoDecimal": "₹6750",
+        "commaFormattedValue": "₹6,750.00",
+        "commaFormattedValueNoDecimal": "₹6,750",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹12999.00",
+        "doubleValue": 12999,
+        "formattedValueNoDecimal": "₹12999",
+        "commaFormattedValue": "₹12,999.00",
+        "commaFormattedValueNoDecimal": "₹12,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/aldo-mens-white-casual-sneakers/p-mp000000020373241",
+    "orgProductCode": "MP000000020373254",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Aldo Men's White Casual Sneakers",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311115"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14996,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000020373235",
+    "productColor": "White",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020373241_437Wx649H_202312080428091.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020373241_437Wx649H_202312080428062.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020373241_437Wx649H_202312080428073.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020373241_437Wx649H_202312080428104.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020373241_437Wx649H_202312080428045.jpeg"
+    ]
+  },
+  {
+    "ussid": "127785RLO165339",
+    "brandname": "Red Tape",
+    "productId": "MP000000020272211",
+    "productname": "Red Tape Women's Drift + Off White Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020272240_437Wx649H_202311291515251.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "off white9502158454785",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020272240_437Wx649H_202311291515251.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "70",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2460.00",
+        "doubleValue": 2460,
+        "formattedValueNoDecimal": "₹2460",
+        "commaFormattedValue": "₹2,460.00",
+        "commaFormattedValueNoDecimal": "₹2,460",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹8199.00",
+        "doubleValue": 8199,
+        "formattedValueNoDecimal": "₹8199",
+        "commaFormattedValue": "₹8,199.00",
+        "commaFormattedValueNoDecimal": "₹8,199",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/red-tape-womens-drift-off-white-running-shoes/p-mp000000020272211",
+    "orgProductCode": "MP000000020272212",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Red Tape Women's Drift + Off White Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14995,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000020021112",
+    "productColor": "Off White",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020272240_437Wx649H_202311291515251.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020272240_437Wx649H_202311291515292.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020272240_437Wx649H_202311291515273.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020272240_437Wx649H_202311291515484.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020272240_437Wx649H_202311291515465.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020272240_437Wx649H_202311291515406.jpeg"
+    ]
+  },
+  {
+    "ussid": "1248488907957025808",
+    "brandname": "U.S. Polo Assn.",
+    "productId": "MP000000004629399",
+    "productname": "U.S. Polo Assn. Men's Clarkin White Sneakers",
+    "imageURL": "//img.tatacliq.com/images/i3/437Wx649H/MP000000004629090_437Wx649H_20190410025015.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311115",
+    "styleCode": "white8975251275777",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i3/437Wx649H/MP000000004629090_437Wx649H_20190410025015.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": true,
+    "discountPercent": "35",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1949.35",
+        "doubleValue": 1949.35,
+        "formattedValueNoDecimal": "₹1949",
+        "commaFormattedValue": "₹1,949.35",
+        "commaFormattedValueNoDecimal": "₹1,949",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2999.00",
+        "doubleValue": 2999,
+        "formattedValueNoDecimal": "₹2999",
+        "commaFormattedValue": "₹2,999.00",
+        "commaFormattedValueNoDecimal": "₹2,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 3.88,
+    "totalNoOfReviews": 0,
+    "ratingCount": 50,
+    "webURL": "/u-s-polo-assn-mens-clarkin-white-sneakers/p-mp000000004629399",
+    "reviewUrl": "/u-s-polo-assn-mens-clarkin-white-sneakers/p-mp000000004629399/product-reviews",
+    "orgProductCode": "MP000000004629398",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "U.S. Polo Assn. Men's Clarkin White Sneakers",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311115"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14994,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000004629089",
+    "productColor": "White",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i3/437Wx649H/MP000000004629090_437Wx649H_20190410025015.jpeg",
+      "//img.tatacliq.com/images/i3/437Wx649H/MP000000004629090_437Wx649H_20190410025024.jpeg",
+      "//img.tatacliq.com/images/i3/437Wx649H/MP000000004629090_437Wx649H_20190410025017.jpeg",
+      "//img.tatacliq.com/images/i3/437Wx649H/MP000000004629090_437Wx649H_20190410025019.jpeg",
+      "//img.tatacliq.com/images/i3/437Wx649H/MP000000004629090_437Wx649H_20190410025022.jpeg"
+    ]
+  },
+  {
+    "ussid": "127785RSO35857",
+    "brandname": "Red Tape",
+    "productId": "MP000000020278989",
+    "productname": "Red Tape Men's Flow + White Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020278979_437Wx649H_202311301542091.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "white9511377436673",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020278979_437Wx649H_202311301542091.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "75",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1924.00",
+        "doubleValue": 1924,
+        "formattedValueNoDecimal": "₹1924",
+        "commaFormattedValue": "₹1,924.00",
+        "commaFormattedValueNoDecimal": "₹1,924",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹7699.00",
+        "doubleValue": 7699,
+        "formattedValueNoDecimal": "₹7699",
+        "commaFormattedValue": "₹7,699.00",
+        "commaFormattedValueNoDecimal": "₹7,699",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 3.63,
+    "totalNoOfReviews": 0,
+    "ratingCount": 19,
+    "webURL": "/red-tape-mens-flow-white-running-shoes/p-mp000000020278989",
+    "reviewUrl": "/red-tape-mens-flow-white-running-shoes/p-mp000000020278989/product-reviews",
+    "orgProductCode": "MP000000020278989",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Red Tape Men's Flow + White Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14992,
+    "compareEnabled": "false",
+    "productNudgeMessage": ["PLP1|Price|Price_Drop|null|Price dropped by ₹385"],
+    "baseProductId": "MP000000020278963",
+    "productColor": "White",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020278979_437Wx649H_202311301542091.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020278979_437Wx649H_202311301542072.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020278979_437Wx649H_202311301542063.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020278979_437Wx649H_202311301542054.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020278979_437Wx649H_202311301542085.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020278979_437Wx649H_202311301542036.jpeg"
+    ]
+  },
+  {
+    "ussid": "1255654066764352898",
+    "brandname": "adidas",
+    "productId": "MP000000019479848",
+    "productname": "Adidas Men's DURAMO RC U Royal Blue Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i13/437Wx649H/MP000000019479943_437Wx649H_202309282200541.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "royal blue9482776444929",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i13/437Wx649H/MP000000019479943_437Wx649H_202309282200541.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "45",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹3079.00",
+        "doubleValue": 3079,
+        "formattedValueNoDecimal": "₹3079",
+        "commaFormattedValue": "₹3,079.00",
+        "commaFormattedValueNoDecimal": "₹3,079",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹5599.00",
+        "doubleValue": 5599,
+        "formattedValueNoDecimal": "₹5599",
+        "commaFormattedValue": "₹5,599.00",
+        "commaFormattedValueNoDecimal": "₹5,599",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 5,
+    "totalNoOfReviews": 0,
+    "ratingCount": 3,
+    "webURL": "/adidas-mens-duramo-rc-u-royal-blue-running-shoes/p-mp000000019479848",
+    "reviewUrl": "/adidas-mens-duramo-rc-u-royal-blue-running-shoes/p-mp000000019479848/product-reviews",
+    "orgProductCode": "MP000000019479943",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Adidas Men's DURAMO RC U Royal Blue Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14991,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000019479838",
+    "productColor": "Royal Blue",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019479943_437Wx649H_202309282200541.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019479943_437Wx649H_202309282200552.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019479943_437Wx649H_202309282200563.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019479943_437Wx649H_202309282200524.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019479943_437Wx649H_202309282200575.jpeg"
+    ]
+  },
+  {
+    "ussid": "1252364066756552824",
+    "brandname": "adidas",
+    "productId": "MP000000018606844",
+    "productname": "Adidas Men's SUPERNOVA 3 Grey Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018606839_437Wx649H_202308061734191.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "grey9453957021697",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018606839_437Wx649H_202308061734191.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "40",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹5999.00",
+        "doubleValue": 5999,
+        "formattedValueNoDecimal": "₹5999",
+        "commaFormattedValue": "₹5,999.00",
+        "commaFormattedValueNoDecimal": "₹5,999",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹9999.00",
+        "doubleValue": 9999,
+        "formattedValueNoDecimal": "₹9999",
+        "commaFormattedValue": "₹9,999.00",
+        "commaFormattedValueNoDecimal": "₹9,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 3.67,
+    "totalNoOfReviews": 0,
+    "ratingCount": 3,
+    "webURL": "/adidas-mens-supernova-3-grey-running-shoes/p-mp000000018606844",
+    "reviewUrl": "/adidas-mens-supernova-3-grey-running-shoes/p-mp000000018606844/product-reviews",
+    "orgProductCode": "MP000000018606839",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Adidas Men's SUPERNOVA 3 Grey Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14990,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000018606835",
+    "productColor": "Grey",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018606839_437Wx649H_202308061734191.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018606839_437Wx649H_202308061734112.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018606839_437Wx649H_202308061734273.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018606839_437Wx649H_202308061734244.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018606839_437Wx649H_202308061734165.jpeg"
+    ]
+  },
+  {
+    "ussid": "126948220906ORBKUK7",
+    "brandname": "Skechers",
+    "productId": "MP000000014744325",
+    "productname": "Skechers Men's Max Cushioning Orange & Black Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i8/437Wx649H/MP000000014744317_437Wx649H_202210022138031.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "orange9320098070529",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i8/437Wx649H/MP000000014744317_437Wx649H_202210022138031.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "40",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹5999.00",
+        "doubleValue": 5999,
+        "formattedValueNoDecimal": "₹5999",
+        "commaFormattedValue": "₹5,999.00",
+        "commaFormattedValueNoDecimal": "₹5,999",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹9999.00",
+        "doubleValue": 9999,
+        "formattedValueNoDecimal": "₹9999",
+        "commaFormattedValue": "₹9,999.00",
+        "commaFormattedValueNoDecimal": "₹9,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 5,
+    "totalNoOfReviews": 0,
+    "ratingCount": 1,
+    "webURL": "/skechers-mens-max-cushioning-orange-black-running-shoes/p-mp000000014744325",
+    "reviewUrl": "/skechers-mens-max-cushioning-orange-black-running-shoes/p-mp000000014744325/product-reviews",
+    "orgProductCode": "MP000000014744320",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Skechers Men's Max Cushioning Orange & Black Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14989,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000014744303",
+    "productColor": "Orange",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i8/437Wx649H/MP000000014744317_437Wx649H_202210022138031.jpeg",
+      "//img.tatacliq.com/images/i8/437Wx649H/MP000000014744317_437Wx649H_202210022138062.jpeg",
+      "//img.tatacliq.com/images/i8/437Wx649H/MP000000014744317_437Wx649H_202210022138043.jpeg",
+      "//img.tatacliq.com/images/i8/437Wx649H/MP000000014744317_437Wx649H_202210022138014.jpeg",
+      "//img.tatacliq.com/images/i8/437Wx649H/MP000000014744317_437Wx649H_202210022138005.jpeg"
+    ]
+  },
+  {
+    "ussid": "1241304099684710417",
+    "brandname": "Puma",
+    "productId": "MP000000018392974",
+    "productname": "Puma Men's Flexrate New Navy Casual Sneakers",
+    "imageURL": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018392978_437Wx649H_202307201846451.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311115",
+    "styleCode": "navy9446131924993",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018392978_437Wx649H_202307201846451.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "65",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1569.00",
+        "doubleValue": 1569,
+        "formattedValueNoDecimal": "₹1569",
+        "commaFormattedValue": "₹1,569.00",
+        "commaFormattedValueNoDecimal": "₹1,569",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹4499.00",
+        "doubleValue": 4499,
+        "formattedValueNoDecimal": "₹4499",
+        "commaFormattedValue": "₹4,499.00",
+        "commaFormattedValueNoDecimal": "₹4,499",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 5,
+    "totalNoOfReviews": 0,
+    "ratingCount": 2,
+    "webURL": "/puma-mens-flexrate-new-navy-casual-sneakers/p-mp000000018392974",
+    "reviewUrl": "/puma-mens-flexrate-new-navy-casual-sneakers/p-mp000000018392974/product-reviews",
+    "orgProductCode": "MP000000018392989",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Puma Men's Flexrate New Navy Casual Sneakers",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311115"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14988,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000018392968",
+    "productColor": "Navy",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018392978_437Wx649H_202307201846451.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018392978_437Wx649H_202307201846472.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018392978_437Wx649H_202307201846463.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018392978_437Wx649H_202307201846534.jpeg"
+    ]
+  },
+  {
+    "ussid": "100031324861136",
+    "brandname": "Metro",
+    "productId": "MP000000019556353",
+    "productname": "Metro Women's Black Thong Wedges",
+    "imageURL": "//img.tatacliq.com/images/i14/437Wx649H/MP000000019556353_437Wx649H_202310080619541.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310113",
+    "styleCode": "black9486547746817",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i14/437Wx649H/MP000000019556353_437Wx649H_202310080619541.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "30",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1393.00",
+        "doubleValue": 1393,
+        "formattedValueNoDecimal": "₹1393",
+        "commaFormattedValue": "₹1,393.00",
+        "commaFormattedValueNoDecimal": "₹1,393",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1990.00",
+        "doubleValue": 1990,
+        "formattedValueNoDecimal": "₹1990",
+        "commaFormattedValue": "₹1,990.00",
+        "commaFormattedValueNoDecimal": "₹1,990",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/metro-womens-black-thong-wedges/p-mp000000019556353",
+    "orgProductCode": "MP000000019556352",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Metro Women's Black Thong Wedges",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310113"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14974,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000019556349",
+    "productColor": "Black",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000019556353_437Wx649H_202310080619541.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000019556353_437Wx649H_202310080619532.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000019556353_437Wx649H_202310080619553.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000019556353_437Wx649H_202310080619564.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000019556353_437Wx649H_202310080619525.jpeg"
+    ]
+  },
+  {
+    "ussid": "12472122L930LNAVYPINK4",
+    "brandname": "Campus",
+    "productId": "MP000000020418066",
+    "productname": "Campus Women's SAVVY Navy Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418066_437Wx649H_202312141915161.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "navy9516329631745",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418066_437Wx649H_202312141915161.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "15",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1444.00",
+        "doubleValue": 1444,
+        "formattedValueNoDecimal": "₹1444",
+        "commaFormattedValue": "₹1,444.00",
+        "commaFormattedValueNoDecimal": "₹1,444",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1699.00",
+        "doubleValue": 1699,
+        "formattedValueNoDecimal": "₹1699",
+        "commaFormattedValue": "₹1,699.00",
+        "commaFormattedValueNoDecimal": "₹1,699",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 5,
+    "totalNoOfReviews": 0,
+    "ratingCount": 5,
+    "webURL": "/campus-womens-savvy-navy-running-shoes/p-mp000000020418066",
+    "reviewUrl": "/campus-womens-savvy-navy-running-shoes/p-mp000000020418066/product-reviews",
+    "orgProductCode": "MP000000020418073",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Campus Women's SAVVY Navy Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14961,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000020418058",
+    "productColor": "Navy",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418066_437Wx649H_202312141915161.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418066_437Wx649H_202312141915132.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418066_437Wx649H_202312141915123.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418066_437Wx649H_202312141915144.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418066_437Wx649H_202312141915155.jpeg"
+    ]
+  },
+  {
+    "ussid": "127785RLO166336",
+    "brandname": "Red Tape",
+    "productId": "MP000000020459709",
+    "productname": "Red Tape Women's Flow Plus White Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459709_437Wx649H_202312150247071.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "white9517742915585",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459709_437Wx649H_202312150247071.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "80",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1179.00",
+        "doubleValue": 1179,
+        "formattedValueNoDecimal": "₹1179",
+        "commaFormattedValue": "₹1,179.00",
+        "commaFormattedValueNoDecimal": "₹1,179",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹5899.00",
+        "doubleValue": 5899,
+        "formattedValueNoDecimal": "₹5899",
+        "commaFormattedValue": "₹5,899.00",
+        "commaFormattedValueNoDecimal": "₹5,899",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 4.14,
+    "totalNoOfReviews": 1,
+    "ratingCount": 22,
+    "webURL": "/red-tape-womens-flow-plus-white-running-shoes/p-mp000000020459709",
+    "reviewUrl": "/red-tape-womens-flow-plus-white-running-shoes/p-mp000000020459709/product-reviews",
+    "orgProductCode": "MP000000020459722",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Red Tape Women's Flow Plus White Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14959,
+    "compareEnabled": "false",
+    "productNudgeMessage": ["PLP1|Price|Price_Drop|null|Price dropped by ₹590"],
+    "baseProductId": "MP000000020459707",
+    "productColor": "White",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459709_437Wx649H_202312150247071.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459709_437Wx649H_202312150247142.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459709_437Wx649H_202312150247103.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459709_437Wx649H_202312150247084.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459709_437Wx649H_202312150247115.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459709_437Wx649H_202312150247136.jpeg"
+    ]
+  },
+  {
+    "ussid": "12472122L930LLPURPLEOFFWHT7",
+    "brandname": "Campus",
+    "productId": "MP000000020418062",
+    "productname": "Campus Women's SAVVY Light Purple Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418060_437Wx649H_202312141915041.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "light purple9516329631745",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418060_437Wx649H_202312141915041.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "15",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1444.00",
+        "doubleValue": 1444,
+        "formattedValueNoDecimal": "₹1444",
+        "commaFormattedValue": "₹1,444.00",
+        "commaFormattedValueNoDecimal": "₹1,444",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1699.00",
+        "doubleValue": 1699,
+        "formattedValueNoDecimal": "₹1699",
+        "commaFormattedValue": "₹1,699.00",
+        "commaFormattedValueNoDecimal": "₹1,699",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 5,
+    "totalNoOfReviews": 0,
+    "ratingCount": 5,
+    "webURL": "/campus-womens-savvy-light-purple-running-shoes/p-mp000000020418062",
+    "reviewUrl": "/campus-womens-savvy-light-purple-running-shoes/p-mp000000020418062/product-reviews",
+    "orgProductCode": "MP000000020418059",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Campus Women's SAVVY Light Purple Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14954,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000020418058",
+    "productColor": "Light Purple",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418060_437Wx649H_202312141915041.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418060_437Wx649H_202312141915112.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418060_437Wx649H_202312141915123.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418060_437Wx649H_202312141915134.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418060_437Wx649H_202312141915095.jpeg"
+    ]
+  },
+  {
+    "ussid": "1248488907957065729",
+    "brandname": "U.S. Polo Assn.",
+    "productId": "MP000000005417168",
+    "productname": "U.S. Polo Assn. Men's Panal White & Grey Sneakers",
+    "imageURL": "//img.tatacliq.com/images/i5/437Wx649H/MP000000005416330_437Wx649H_20190903043009.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311115",
+    "styleCode": "white9001558507521",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i5/437Wx649H/MP000000005416330_437Wx649H_20190903043009.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": true,
+    "discountPercent": "40",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1799.40",
+        "doubleValue": 1799.4,
+        "formattedValueNoDecimal": "₹1799",
+        "commaFormattedValue": "₹1,799.4",
+        "commaFormattedValueNoDecimal": "₹1,799",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2999.00",
+        "doubleValue": 2999,
+        "formattedValueNoDecimal": "₹2999",
+        "commaFormattedValue": "₹2,999.00",
+        "commaFormattedValueNoDecimal": "₹2,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 3.84,
+    "totalNoOfReviews": 0,
+    "ratingCount": 19,
+    "webURL": "/u-s-polo-assn-mens-panal-white-grey-sneakers/p-mp000000005417168",
+    "reviewUrl": "/u-s-polo-assn-mens-panal-white-grey-sneakers/p-mp000000005417168/product-reviews",
+    "orgProductCode": "MP000000005416330",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "U.S. Polo Assn. Men's Panal White & Grey Sneakers",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311115"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14950,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000005416327",
+    "productColor": "White",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i5/437Wx649H/MP000000005416330_437Wx649H_20190903043009.jpeg",
+      "//img.tatacliq.com/images/i5/437Wx649H/MP000000005416330_437Wx649H_20190903043013.jpeg",
+      "//img.tatacliq.com/images/i5/437Wx649H/MP000000005416330_437Wx649H_20190903042958.jpeg",
+      "//img.tatacliq.com/images/i5/437Wx649H/MP000000005416330_437Wx649H_20190903043005.jpeg",
+      "//img.tatacliq.com/images/i5/437Wx649H/MP000000005416330_437Wx649H_20190903043001.jpeg"
+    ]
+  },
+  {
+    "ussid": "127892700452860131",
+    "brandname": "Styli",
+    "productId": "MP000000017101001",
+    "productname": "Styli Canvas Lace Up Casual Shoes",
+    "imageURL": "//img.tatacliq.com/images/i14/437Wx649H/MP000000017100996_437Wx649H_202310111554161.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311115",
+    "styleCode": "black9400610095105",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i14/437Wx649H/MP000000017100996_437Wx649H_202310111554161.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "5",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹759.00",
+        "doubleValue": 759,
+        "formattedValueNoDecimal": "₹759",
+        "commaFormattedValue": "₹759.00",
+        "commaFormattedValueNoDecimal": "₹759",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹799.00",
+        "doubleValue": 799,
+        "formattedValueNoDecimal": "₹799",
+        "commaFormattedValue": "₹799.00",
+        "commaFormattedValueNoDecimal": "₹799",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 5,
+    "totalNoOfReviews": 1,
+    "ratingCount": 4,
+    "webURL": "/styli-canvas-lace-up-casual-shoes/p-mp000000017101001",
+    "reviewUrl": "/styli-canvas-lace-up-casual-shoes/p-mp000000017101001/product-reviews",
+    "orgProductCode": "MP000000017101011",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Styli Canvas Lace Up Casual Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311115"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14948,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000017100995",
+    "productColor": "Black",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000017100996_437Wx649H_202310111554161.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000017100996_437Wx649H_202310111554152.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000017100996_437Wx649H_202310111554173.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000017100996_437Wx649H_202310111554184.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000017100996_437Wx649H_202310111554195.jpeg"
+    ]
+  },
+  {
+    "ussid": "1253491011B0834028",
+    "brandname": "Asics",
+    "productId": "MP000000018581272",
+    "productname": "Asics Men's GEL-Contend 5B Blue Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018581269_437Wx649H_202308042011581.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "blue9452905988097",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018581269_437Wx649H_202308042011581.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "50",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2349.00",
+        "doubleValue": 2349,
+        "formattedValueNoDecimal": "₹2349",
+        "commaFormattedValue": "₹2,349.00",
+        "commaFormattedValueNoDecimal": "₹2,349",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹4699.00",
+        "doubleValue": 4699,
+        "formattedValueNoDecimal": "₹4699",
+        "commaFormattedValue": "₹4,699.00",
+        "commaFormattedValueNoDecimal": "₹4,699",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 4.5,
+    "totalNoOfReviews": 0,
+    "ratingCount": 2,
+    "webURL": "/asics-mens-gel-contend-5b-blue-running-shoes/p-mp000000018581272",
+    "reviewUrl": "/asics-mens-gel-contend-5b-blue-running-shoes/p-mp000000018581272/product-reviews",
+    "orgProductCode": "MP000000018581274",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Asics Men's GEL-Contend 5B Blue Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14908,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000018581267",
+    "productColor": "Blue",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018581269_437Wx649H_202308042011581.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018581269_437Wx649H_202308042011522.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018581269_437Wx649H_202308042011563.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018581269_437Wx649H_202308042011544.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018581269_437Wx649H_202308042012005.jpeg"
+    ]
+  },
+  {
+    "ussid": "124776LIB5131342300420",
+    "brandname": "Liberty",
+    "productId": "MP000000017847507",
+    "productname": "Coolers by Liberty Men's Black Thong Sandals",
+    "imageURL": "//img.tatacliq.com/images/i11/437Wx649H/MP000000017847553_437Wx649H_202306062213251.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311127",
+    "styleCode": "black9427523371009",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i11/437Wx649H/MP000000017847553_437Wx649H_202306062213251.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "39",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1099.00",
+        "doubleValue": 1099,
+        "formattedValueNoDecimal": "₹1099",
+        "commaFormattedValue": "₹1,099.00",
+        "commaFormattedValueNoDecimal": "₹1,099",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1799.00",
+        "doubleValue": 1799,
+        "formattedValueNoDecimal": "₹1799",
+        "commaFormattedValue": "₹1,799.00",
+        "commaFormattedValueNoDecimal": "₹1,799",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 4.5,
+    "totalNoOfReviews": 0,
+    "ratingCount": 4,
+    "webURL": "/coolers-by-liberty-mens-black-thong-sandals/p-mp000000017847507",
+    "reviewUrl": "/coolers-by-liberty-mens-black-thong-sandals/p-mp000000017847507/product-reviews",
+    "orgProductCode": "MP000000017847507",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Coolers by Liberty Men's Black Thong Sandals",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311127"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14899,
+    "compareEnabled": "false",
+    "productNudgeMessage": ["PLP1|Price|Price_Drop|null|Price dropped by ₹175"],
+    "baseProductId": "MP000000017847486",
+    "productColor": "Black",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017847553_437Wx649H_202306062213251.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017847553_437Wx649H_202306062213152.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017847553_437Wx649H_202306062213363.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017847553_437Wx649H_202306062213194.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017847553_437Wx649H_202306062213315.jpeg"
+    ]
+  },
+  {
+    "ussid": "128397I00626940121RL",
+    "brandname": "Sparx",
+    "productId": "MP000000018496683",
+    "productname": "Sparx Men's Navy Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018496689_437Wx649H_202307291733491.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "navy9449979379713",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018496689_437Wx649H_202307291733491.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "10",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1259.00",
+        "doubleValue": 1259,
+        "formattedValueNoDecimal": "₹1259",
+        "commaFormattedValue": "₹1,259.00",
+        "commaFormattedValueNoDecimal": "₹1,259",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1399.00",
+        "doubleValue": 1399,
+        "formattedValueNoDecimal": "₹1399",
+        "commaFormattedValue": "₹1,399.00",
+        "commaFormattedValueNoDecimal": "₹1,399",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/sparx-mens-navy-running-shoes/p-mp000000018496683",
+    "orgProductCode": "MP000000018496686",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Sparx Men's Navy Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14894,
+    "compareEnabled": "false",
+    "productNudgeMessage": ["PLP1|Price|Price_Drop|null|Price dropped by ₹140"],
+    "baseProductId": "MP000000018496655",
+    "productColor": "Navy",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018496689_437Wx649H_202307291733491.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018496689_437Wx649H_202307291733482.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018496689_437Wx649H_202307291733513.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018496689_437Wx649H_202307291733504.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018496689_437Wx649H_202307291733475.jpeg"
+    ]
+  },
+  {
+    "ussid": "1277768907165170680",
+    "brandname": "Reebok",
+    "productId": "MP000000020426203",
+    "productname": "Reebok Women's Continuum Pink Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020426197_437Wx649H_202312130216531.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "pink9516158058497",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020426197_437Wx649H_202312130216531.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "41",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1946.00",
+        "doubleValue": 1946,
+        "formattedValueNoDecimal": "₹1946",
+        "commaFormattedValue": "₹1,946.00",
+        "commaFormattedValueNoDecimal": "₹1,946",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹3299.00",
+        "doubleValue": 3299,
+        "formattedValueNoDecimal": "₹3299",
+        "commaFormattedValue": "₹3,299.00",
+        "commaFormattedValueNoDecimal": "₹3,299",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/reebok-womens-continuum-pink-running-shoes/p-mp000000020426203",
+    "orgProductCode": "MP000000020426204",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Reebok Women's Continuum Pink Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14894,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000020426192",
+    "productColor": "Pink",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020426197_437Wx649H_202312130216531.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020426197_437Wx649H_202312130216502.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020426197_437Wx649H_202312130216493.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020426197_437Wx649H_202312130216524.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020426197_437Wx649H_202312130216545.jpeg"
+    ]
+  },
+  {
+    "ussid": "123864203998462W9",
+    "brandname": "Crocs",
+    "productId": "MP000000004580206",
+    "productname": "Crocs Swiftwater Navy Casual Sandals",
+    "imageURL": "//img.tatacliq.com/images/i7/437Wx649H/MP000000004580623_437Wx649H_202106192345111.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310116",
+    "styleCode": "navy8973654163457",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i7/437Wx649H/MP000000004580623_437Wx649H_202106192345111.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "33",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2677.00",
+        "doubleValue": 2677,
+        "formattedValueNoDecimal": "₹2677",
+        "commaFormattedValue": "₹2,677.00",
+        "commaFormattedValueNoDecimal": "₹2,677",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹3995.00",
+        "doubleValue": 3995,
+        "formattedValueNoDecimal": "₹3995",
+        "commaFormattedValue": "₹3,995.00",
+        "commaFormattedValueNoDecimal": "₹3,995",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/crocs-swiftwater-navy-casual-sandals/p-mp000000004580206",
+    "orgProductCode": "MP000000004581270",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Crocs Swiftwater Navy Casual Sandals",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310116"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14892,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000004580198",
+    "productColor": "Navy",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i7/437Wx649H/MP000000004580623_437Wx649H_202106192345111.jpeg",
+      "//img.tatacliq.com/images/i7/437Wx649H/MP000000004580623_437Wx649H_202106192345032.jpeg",
+      "//img.tatacliq.com/images/i7/437Wx649H/MP000000004580623_437Wx649H_202106192345213.jpeg",
+      "//img.tatacliq.com/images/i7/437Wx649H/MP000000004580623_437Wx649H_202106192345074.jpeg",
+      "//img.tatacliq.com/images/i3/437Wx649H/MP000000004580623_437Wx649H_20190329170046.jpeg"
+    ]
+  },
+  {
+    "ussid": "124318DA85701037",
+    "brandname": "Nike",
+    "productId": "MP000000020341332",
+    "productname": "Nike Women's AIR ZOOM STRUCTURE 24 SERIES White Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020341333_437Wx649H_202312052055141.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "white.9513506177025",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020341333_437Wx649H_202312052055141.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "13",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹8995.00",
+        "doubleValue": 8995,
+        "formattedValueNoDecimal": "₹8995",
+        "commaFormattedValue": "₹8,995.00",
+        "commaFormattedValueNoDecimal": "₹8,995",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹10295.00",
+        "doubleValue": 10295,
+        "formattedValueNoDecimal": "₹10295",
+        "commaFormattedValue": "₹10,295.00",
+        "commaFormattedValueNoDecimal": "₹10,295",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/nike-womens-air-zoom-structure-24-series-white-running-shoes/p-mp000000020341332",
+    "orgProductCode": "MP000000020341333",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Nike Women's AIR ZOOM STRUCTURE 24 SERIES White Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14890,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000018338129",
+    "productColor": "White.",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020341333_437Wx649H_202312052055141.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020341333_437Wx649H_202312052055172.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020341333_437Wx649H_202312052055183.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020341333_437Wx649H_202312052055134.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020341333_437Wx649H_202312052055165.jpeg"
+    ]
+  },
+  {
+    "ussid": "123986057005720778",
+    "brandname": "Aldo",
+    "productId": "MP000000018721477",
+    "productname": "Aldo Women's Grey Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018721459_437Wx649H_202308131025131.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "grey9457107402753",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018721459_437Wx649H_202308131025131.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "48",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹7790.00",
+        "doubleValue": 7790,
+        "formattedValueNoDecimal": "₹7790",
+        "commaFormattedValue": "₹7,790.00",
+        "commaFormattedValueNoDecimal": "₹7,790",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹14999.00",
+        "doubleValue": 14999,
+        "formattedValueNoDecimal": "₹14999",
+        "commaFormattedValue": "₹14,999.00",
+        "commaFormattedValueNoDecimal": "₹14,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/aldo-womens-grey-running-shoes/p-mp000000018721477",
+    "orgProductCode": "MP000000018721476",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Aldo Women's Grey Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14886,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Price|Price_Drop|null|Price dropped by ₹1200",
+      "PLP2|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000018721457",
+    "productColor": "Grey",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018721459_437Wx649H_202308131025131.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018721459_437Wx649H_202308131024412.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018721459_437Wx649H_202308131024593.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018721459_437Wx649H_202308131025064.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018721459_437Wx649H_202308131025195.jpeg"
+    ]
+  },
+  {
+    "ussid": "128334MLAPinkEU38",
+    "brandname": "Shoetopia",
+    "productId": "MP000000019198614",
+    "productname": "Shoetopia Women's Pink Ankle High Sneakers",
+    "imageURL": "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198608_437Wx649H_202309130152371.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310115",
+    "styleCode": "pink9472845447169",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198608_437Wx649H_202309130152371.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "57",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹854.00",
+        "doubleValue": 854,
+        "formattedValueNoDecimal": "₹854",
+        "commaFormattedValue": "₹854.00",
+        "commaFormattedValueNoDecimal": "₹854",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1999.00",
+        "doubleValue": 1999,
+        "formattedValueNoDecimal": "₹1999",
+        "commaFormattedValue": "₹1,999.00",
+        "commaFormattedValueNoDecimal": "₹1,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/shoetopia-womens-pink-ankle-high-sneakers/p-mp000000019198614",
+    "orgProductCode": "MP000000019198615",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Shoetopia Women's Pink Ankle High Sneakers",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310115"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14884,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000019198607",
+    "productColor": "Pink",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198608_437Wx649H_202309130152371.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198608_437Wx649H_202309130152362.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198608_437Wx649H_202309130152333.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198608_437Wx649H_202309130152384.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198608_437Wx649H_202309130152345.jpeg"
+    ]
+  },
+  {
+    "ussid": "128334JM44WhiteEU38",
+    "brandname": "Shoetopia",
+    "productId": "MP000000019198568",
+    "productname": "Shoetopia Women's White Sneakers",
+    "imageURL": "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198561_437Wx649H_202309130150371.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310115",
+    "styleCode": "white9472844103681",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198561_437Wx649H_202309130150371.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "60",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹799.00",
+        "doubleValue": 799,
+        "formattedValueNoDecimal": "₹799",
+        "commaFormattedValue": "₹799.00",
+        "commaFormattedValueNoDecimal": "₹799",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1999.00",
+        "doubleValue": 1999,
+        "formattedValueNoDecimal": "₹1999",
+        "commaFormattedValue": "₹1,999.00",
+        "commaFormattedValueNoDecimal": "₹1,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 3.67,
+    "totalNoOfReviews": 0,
+    "ratingCount": 3,
+    "webURL": "/shoetopia-womens-white-sneakers/p-mp000000019198568",
+    "reviewUrl": "/shoetopia-womens-white-sneakers/p-mp000000019198568/product-reviews",
+    "orgProductCode": "MP000000019198568",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Shoetopia Women's White Sneakers",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310115"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14883,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000019198559",
+    "productColor": "White",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198561_437Wx649H_202309130150371.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198561_437Wx649H_202309130150402.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198561_437Wx649H_202309130150393.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198561_437Wx649H_202309130150364.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019198561_437Wx649H_202309130150355.jpeg"
+    ]
+  },
+  {
+    "ussid": "128334AirBlackEU37",
+    "brandname": "Shoetopia",
+    "productId": "MP000000019145791",
+    "productname": "Shoetopia Women's Black Sneakers",
+    "imageURL": "//img.tatacliq.com/images/i13/437Wx649H/MP000000019145784_437Wx649H_202309091043181.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310115",
+    "styleCode": "black9471158419457",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i13/437Wx649H/MP000000019145784_437Wx649H_202309091043181.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "62",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹759.00",
+        "doubleValue": 759,
+        "formattedValueNoDecimal": "₹759",
+        "commaFormattedValue": "₹759.00",
+        "commaFormattedValueNoDecimal": "₹759",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1999.00",
+        "doubleValue": 1999,
+        "formattedValueNoDecimal": "₹1999",
+        "commaFormattedValue": "₹1,999.00",
+        "commaFormattedValueNoDecimal": "₹1,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/shoetopia-womens-black-sneakers/p-mp000000019145791",
+    "orgProductCode": "MP000000019145784",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Shoetopia Women's Black Sneakers",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310115"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14882,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000019145778",
+    "productColor": "Black",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019145784_437Wx649H_202309091043181.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019145784_437Wx649H_202309091043152.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019145784_437Wx649H_202309091043213.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019145784_437Wx649H_202309091043174.jpeg",
+      "//img.tatacliq.com/images/i13/437Wx649H/MP000000019145784_437Wx649H_202309091043195.jpeg"
+    ]
+  },
+  {
+    "ussid": "12472111G677GRSLATE9",
+    "brandname": "Campus",
+    "productId": "MP000000020466789",
+    "productname": "Campus Men's NORTH PLUS Cobalt Blue Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466794_437Wx649H_202312152337151.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "cobalt blue9098922393601",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466794_437Wx649H_202312152337151.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "32",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1299.00",
+        "doubleValue": 1299,
+        "formattedValueNoDecimal": "₹1299",
+        "commaFormattedValue": "₹1,299.00",
+        "commaFormattedValueNoDecimal": "₹1,299",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1899.00",
+        "doubleValue": 1899,
+        "formattedValueNoDecimal": "₹1899",
+        "commaFormattedValue": "₹1,899.00",
+        "commaFormattedValueNoDecimal": "₹1,899",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 3.93,
+    "totalNoOfReviews": 0,
+    "ratingCount": 631,
+    "webURL": "/campus-mens-north-plus-cobalt-blue-running-shoes/p-mp000000020466789",
+    "reviewUrl": "/campus-mens-north-plus-cobalt-blue-running-shoes/p-mp000000020466789/product-reviews",
+    "orgProductCode": "MP000000020466794",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Campus Men's NORTH PLUS Cobalt Blue Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14877,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000008351679",
+    "productColor": "Cobalt Blue",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466794_437Wx649H_202312152337151.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466794_437Wx649H_202312152337132.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466794_437Wx649H_202312152337113.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466794_437Wx649H_202312152337144.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466794_437Wx649H_202312152337105.jpeg"
+    ]
+  },
+  {
+    "ussid": "10003132811212437",
+    "brandname": "Mochi",
+    "productId": "MP000000017431394",
+    "productname": "Activ by Mochi Women's Pink Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431389_437Wx649H_202305041553591.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "pink9412336418817",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431389_437Wx649H_202305041553591.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "78",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹550.00",
+        "doubleValue": 550,
+        "formattedValueNoDecimal": "₹550",
+        "commaFormattedValue": "₹550.00",
+        "commaFormattedValueNoDecimal": "₹550",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2499.00",
+        "doubleValue": 2499,
+        "formattedValueNoDecimal": "₹2499",
+        "commaFormattedValue": "₹2,499.00",
+        "commaFormattedValueNoDecimal": "₹2,499",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 4,
+    "totalNoOfReviews": 0,
+    "ratingCount": 2,
+    "webURL": "/activ-by-mochi-womens-pink-running-shoes/p-mp000000017431394",
+    "reviewUrl": "/activ-by-mochi-womens-pink-running-shoes/p-mp000000017431394/product-reviews",
+    "orgProductCode": "MP000000017431395",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Activ by Mochi Women's Pink Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14877,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000017431387",
+    "productColor": "Pink",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431389_437Wx649H_202305041553591.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431389_437Wx649H_202305041554072.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431389_437Wx649H_202305041554023.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431389_437Wx649H_202305041554044.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431389_437Wx649H_202305041554055.jpeg"
+    ]
+  },
+  {
+    "ussid": "10003132811211736",
+    "brandname": "Mochi",
+    "productId": "MP000000017431435",
+    "productname": "Activ by Mochi Women's Navy Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431377_437Wx649H_202305041553571.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "navy9412336254977",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431377_437Wx649H_202305041553571.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "78",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹550.00",
+        "doubleValue": 550,
+        "formattedValueNoDecimal": "₹550",
+        "commaFormattedValue": "₹550.00",
+        "commaFormattedValueNoDecimal": "₹550",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2499.00",
+        "doubleValue": 2499,
+        "formattedValueNoDecimal": "₹2499",
+        "commaFormattedValue": "₹2,499.00",
+        "commaFormattedValueNoDecimal": "₹2,499",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/activ-by-mochi-womens-navy-running-shoes/p-mp000000017431435",
+    "orgProductCode": "MP000000017431439",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Activ by Mochi Women's Navy Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14873,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000017431376",
+    "productColor": "Navy",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431377_437Wx649H_202305041553571.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431377_437Wx649H_202305041553512.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431377_437Wx649H_202305041553553.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431377_437Wx649H_202305041553534.jpeg",
+      "//img.tatacliq.com/images/i11/437Wx649H/MP000000017431377_437Wx649H_202305041553565.jpeg"
+    ]
+  },
+  {
+    "ussid": "100031162231244",
+    "brandname": "Metro",
+    "productId": "MP000000017216749",
+    "productname": "Metro Men's Brown Thong Sandals",
+    "imageURL": "//img.tatacliq.com/images/i10/437Wx649H/MP000000017216749_437Wx649H_202304150243281.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311127",
+    "styleCode": "brown9404766158849",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i10/437Wx649H/MP000000017216749_437Wx649H_202304150243281.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "30",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1393.00",
+        "doubleValue": 1393,
+        "formattedValueNoDecimal": "₹1393",
+        "commaFormattedValue": "₹1,393.00",
+        "commaFormattedValueNoDecimal": "₹1,393",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1990.00",
+        "doubleValue": 1990,
+        "formattedValueNoDecimal": "₹1990",
+        "commaFormattedValue": "₹1,990.00",
+        "commaFormattedValueNoDecimal": "₹1,990",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 4,
+    "totalNoOfReviews": 0,
+    "ratingCount": 1,
+    "webURL": "/metro-mens-brown-thong-sandals/p-mp000000017216749",
+    "reviewUrl": "/metro-mens-brown-thong-sandals/p-mp000000017216749/product-reviews",
+    "orgProductCode": "MP000000017217453",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Metro Men's Brown Thong Sandals",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311127"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14871,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000017216747",
+    "productColor": "Brown",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i10/437Wx649H/MP000000017216749_437Wx649H_202304150243281.jpeg",
+      "//img.tatacliq.com/images/i10/437Wx649H/MP000000017216749_437Wx649H_202304150243352.jpeg",
+      "//img.tatacliq.com/images/i10/437Wx649H/MP000000017216749_437Wx649H_202304150243243.jpeg",
+      "//img.tatacliq.com/images/i10/437Wx649H/MP000000017216749_437Wx649H_202304150243324.jpeg",
+      "//img.tatacliq.com/images/i10/437Wx649H/MP000000017216749_437Wx649H_202304150243215.jpeg"
+    ]
+  },
+  {
+    "ussid": "12472111G677GPUWHTNAVY10",
+    "brandname": "Campus",
+    "productId": "MP000000020466585",
+    "productname": "Campus Men's NORTH PLUS Indigo Blue Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466585_437Wx649H_202312152328041.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "indigo blue9098922393601",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466585_437Wx649H_202312152328041.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "32",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1299.00",
+        "doubleValue": 1299,
+        "formattedValueNoDecimal": "₹1299",
+        "commaFormattedValue": "₹1,299.00",
+        "commaFormattedValueNoDecimal": "₹1,299",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1899.00",
+        "doubleValue": 1899,
+        "formattedValueNoDecimal": "₹1899",
+        "commaFormattedValue": "₹1,899.00",
+        "commaFormattedValueNoDecimal": "₹1,899",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 3.93,
+    "totalNoOfReviews": 0,
+    "ratingCount": 631,
+    "webURL": "/campus-mens-north-plus-indigo-blue-running-shoes/p-mp000000020466585",
+    "reviewUrl": "/campus-mens-north-plus-indigo-blue-running-shoes/p-mp000000020466585/product-reviews",
+    "orgProductCode": "MP000000020466590",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Campus Men's NORTH PLUS Indigo Blue Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14856,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000008351679",
+    "productColor": "Indigo Blue",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466585_437Wx649H_202312152328041.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466585_437Wx649H_202312152328072.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466585_437Wx649H_202312152328093.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466585_437Wx649H_202312152328064.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020466585_437Wx649H_202312152328105.jpeg"
+    ]
+  },
+  {
+    "ussid": "1248488907957076459",
+    "brandname": "U.S. Polo Assn.",
+    "productId": "MP000000005809327",
+    "productname": "U.S. Polo Assn. Men's Evan Navy Thong Sandals",
+    "imageURL": "//img.tatacliq.com/images/i5/437Wx649H/MP000000005807007_437Wx649H_20191104195226.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311127",
+    "styleCode": "navy9014918709249",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i5/437Wx649H/MP000000005807007_437Wx649H_20191104195226.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": true,
+    "discountPercent": "55",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹989.55",
+        "doubleValue": 989.55,
+        "formattedValueNoDecimal": "₹989",
+        "commaFormattedValue": "₹989.55",
+        "commaFormattedValueNoDecimal": "₹989",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2199.00",
+        "doubleValue": 2199,
+        "formattedValueNoDecimal": "₹2199",
+        "commaFormattedValue": "₹2,199.00",
+        "commaFormattedValueNoDecimal": "₹2,199",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 3.89,
+    "totalNoOfReviews": 1,
+    "ratingCount": 9,
+    "webURL": "/u-s-polo-assn-mens-evan-navy-thong-sandals/p-mp000000005809327",
+    "reviewUrl": "/u-s-polo-assn-mens-evan-navy-thong-sandals/p-mp000000005809327/product-reviews",
+    "orgProductCode": "MP000000005808408",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "U.S. Polo Assn. Men's Evan Navy Thong Sandals",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311127"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14843,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000005807006",
+    "productColor": "Navy",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i5/437Wx649H/MP000000005807007_437Wx649H_20191104195226.jpeg",
+      "//img.tatacliq.com/images/i5/437Wx649H/MP000000005807007_437Wx649H_20191104195222.jpeg",
+      "//img.tatacliq.com/images/i5/437Wx649H/MP000000005807007_437Wx649H_20191104195218.jpeg",
+      "//img.tatacliq.com/images/i5/437Wx649H/MP000000005807007_437Wx649H_20191104195214.jpeg"
+    ]
+  },
+  {
+    "ussid": "127785RLO166139",
+    "brandname": "Red Tape",
+    "productId": "MP000000020459716",
+    "productname": "Red Tape Women's FLOW Plus Black Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459708_437Wx649H_202312150247111.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "black9517742915585",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459708_437Wx649H_202312150247111.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "70",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1770.00",
+        "doubleValue": 1770,
+        "formattedValueNoDecimal": "₹1770",
+        "commaFormattedValue": "₹1,770.00",
+        "commaFormattedValueNoDecimal": "₹1,770",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹5899.00",
+        "doubleValue": 5899,
+        "formattedValueNoDecimal": "₹5899",
+        "commaFormattedValue": "₹5,899.00",
+        "commaFormattedValueNoDecimal": "₹5,899",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 4.14,
+    "totalNoOfReviews": 0,
+    "ratingCount": 22,
+    "webURL": "/red-tape-womens-flow-plus-black-running-shoes/p-mp000000020459716",
+    "reviewUrl": "/red-tape-womens-flow-plus-black-running-shoes/p-mp000000020459716/product-reviews",
+    "orgProductCode": "MP000000020459716",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Red Tape Women's FLOW Plus Black Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14841,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000020459707",
+    "productColor": "Black",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459708_437Wx649H_202312150247111.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459708_437Wx649H_202312150247072.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459708_437Wx649H_202312150247123.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459708_437Wx649H_202312150247104.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459708_437Wx649H_202312150247085.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020459708_437Wx649H_202312150247146.jpeg"
+    ]
+  },
+  {
+    "ussid": "128550TC181262WHTMESH03",
+    "brandname": "Truffle Collection",
+    "productId": "MP000000005303163",
+    "productname": "Truffle Collection White Casual Sneakers",
+    "imageURL": "//img.tatacliq.com/images/i4/437Wx649H/MP000000005303163_437Wx649H_20190824190405.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310115",
+    "styleCode": "white8997886164993",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i4/437Wx649H/MP000000005303163_437Wx649H_20190824190405.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "60",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1599.00",
+        "doubleValue": 1599,
+        "formattedValueNoDecimal": "₹1599",
+        "commaFormattedValue": "₹1,599.00",
+        "commaFormattedValueNoDecimal": "₹1,599",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹3999.00",
+        "doubleValue": 3999,
+        "formattedValueNoDecimal": "₹3999",
+        "commaFormattedValue": "₹3,999.00",
+        "commaFormattedValueNoDecimal": "₹3,999",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 4,
+    "totalNoOfReviews": 0,
+    "ratingCount": 1,
+    "webURL": "/truffle-collection-white-casual-sneakers/p-mp000000005303163",
+    "reviewUrl": "/truffle-collection-white-casual-sneakers/p-mp000000005303163/product-reviews",
+    "orgProductCode": "MP000000005305611",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Truffle Collection White Casual Sneakers",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310115"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14840,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000005303014",
+    "productColor": "White",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i4/437Wx649H/MP000000005303163_437Wx649H_20190824190405.jpeg",
+      "//img.tatacliq.com/images/i4/437Wx649H/MP000000005303163_437Wx649H_20190824190417.jpeg",
+      "//img.tatacliq.com/images/i4/437Wx649H/MP000000005303163_437Wx649H_20190824190420.jpeg",
+      "//img.tatacliq.com/images/i4/437Wx649H/MP000000005303163_437Wx649H_20190824190409.jpeg",
+      "//img.tatacliq.com/images/i4/437Wx649H/MP000000005303163_437Wx649H_20190824190413.jpeg"
+    ]
+  },
+  {
+    "ussid": "128397A1SX0687GBKTB00080721R09MA0",
+    "brandname": "Sparx",
+    "productId": "MP000000018363446",
+    "productname": "Sparx Men's Black Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018363442_437Wx649H_202307162102361.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311128100",
+    "styleCode": "black.9408390496257",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i12/437Wx649H/MP000000018363442_437Wx649H_202307162102361.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "15",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1316.00",
+        "doubleValue": 1316,
+        "formattedValueNoDecimal": "₹1316",
+        "commaFormattedValue": "₹1,316.00",
+        "commaFormattedValueNoDecimal": "₹1,316",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1549.00",
+        "doubleValue": 1549,
+        "formattedValueNoDecimal": "₹1549",
+        "commaFormattedValue": "₹1,549.00",
+        "commaFormattedValueNoDecimal": "₹1,549",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/sparx-mens-black-running-shoes/p-mp000000018363446",
+    "orgProductCode": "MP000000018363446",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Sparx Men's Black Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      },
+      {
+        "L4": "MSH1311128100"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311128"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14838,
+    "compareEnabled": "false",
+    "productNudgeMessage": ["PLP1|Price|Price_Drop|null|Price dropped by ₹233"],
+    "baseProductId": "MP000000017332898",
+    "productColor": "Black.",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018363442_437Wx649H_202307162102361.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018363442_437Wx649H_202307162102432.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018363442_437Wx649H_202307162102393.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018363442_437Wx649H_202307162102374.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018363442_437Wx649H_202307162102445.jpeg",
+      "//img.tatacliq.com/images/i12/437Wx649H/MP000000018363442_437Wx649H_202307162102406.jpeg"
+    ]
+  },
+  {
+    "ussid": "12472122L932LBLKPINK6",
+    "brandname": "Campus",
+    "productId": "MP000000020418094",
+    "productname": "Campus Women's FRILL Black Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418088_437Wx649H_202312141916121.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "black9516329664513",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418088_437Wx649H_202312141916121.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "5",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1614.00",
+        "doubleValue": 1614,
+        "formattedValueNoDecimal": "₹1614",
+        "commaFormattedValue": "₹1,614.00",
+        "commaFormattedValueNoDecimal": "₹1,614",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1699.00",
+        "doubleValue": 1699,
+        "formattedValueNoDecimal": "₹1699",
+        "commaFormattedValue": "₹1,699.00",
+        "commaFormattedValueNoDecimal": "₹1,699",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 4,
+    "totalNoOfReviews": 1,
+    "ratingCount": 2,
+    "webURL": "/campus-womens-frill-black-running-shoes/p-mp000000020418094",
+    "reviewUrl": "/campus-womens-frill-black-running-shoes/p-mp000000020418094/product-reviews",
+    "orgProductCode": "MP000000020418093",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Campus Women's FRILL Black Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14835,
+    "compareEnabled": "false",
+    "productNudgeMessage": [
+      "PLP1|Stock|Limited Stock - overall|null|Limited stock!"
+    ],
+    "baseProductId": "MP000000020418086",
+    "productColor": "Black",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418088_437Wx649H_202312141916121.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418088_437Wx649H_202312141916112.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418088_437Wx649H_202312141916083.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418088_437Wx649H_202312141916144.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418088_437Wx649H_202312141916105.jpeg"
+    ]
+  },
+  {
+    "ussid": "12472122L932LPINKOFFWHT6",
+    "brandname": "Campus",
+    "productId": "MP000000020418096",
+    "productname": "Campus Women's FRILL Pink Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418090_437Wx649H_202312141918131.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "pink9516329664513",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418090_437Wx649H_202312141918131.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "15",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1444.00",
+        "doubleValue": 1444,
+        "formattedValueNoDecimal": "₹1444",
+        "commaFormattedValue": "₹1,444.00",
+        "commaFormattedValueNoDecimal": "₹1,444",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹1699.00",
+        "doubleValue": 1699,
+        "formattedValueNoDecimal": "₹1699",
+        "commaFormattedValue": "₹1,699.00",
+        "commaFormattedValueNoDecimal": "₹1,699",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "averageRating": 4,
+    "totalNoOfReviews": 0,
+    "ratingCount": 1,
+    "webURL": "/campus-womens-frill-pink-running-shoes/p-mp000000020418096",
+    "reviewUrl": "/campus-womens-frill-pink-running-shoes/p-mp000000020418096/product-reviews",
+    "orgProductCode": "MP000000020418095",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Campus Women's FRILL Pink Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14833,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000020418086",
+    "productColor": "Pink",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418090_437Wx649H_202312141918131.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418090_437Wx649H_202312141918092.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418090_437Wx649H_202312141918123.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418090_437Wx649H_202312141918104.jpeg",
+      "//img.tatacliq.com/images/i15//437Wx649H/MP000000020418090_437Wx649H_202312141918155.jpeg"
+    ]
+  },
+  {
+    "ussid": "123864208215410M12",
+    "brandname": "Crocs",
+    "productId": "MP000000016349350",
+    "productname": "Crocs Men's Baya Navy Slides",
+    "imageURL": "//img.tatacliq.com/images/i9/437Wx649H/MP000000016349388_437Wx649H_202302022219191.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1311127",
+    "styleCode": "navy9375200641025",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i9/437Wx649H/MP000000016349388_437Wx649H_202302022219191.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "30",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2097.00",
+        "doubleValue": 2097,
+        "formattedValueNoDecimal": "₹2097",
+        "commaFormattedValue": "₹2,097.00",
+        "commaFormattedValueNoDecimal": "₹2,097",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2995.00",
+        "doubleValue": 2995,
+        "formattedValueNoDecimal": "₹2995",
+        "commaFormattedValue": "₹2,995.00",
+        "commaFormattedValueNoDecimal": "₹2,995",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/crocs-mens-baya-navy-slides/p-mp000000016349350",
+    "orgProductCode": "MP000000016349399",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Crocs Men's Baya Navy Slides",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1311"
+      },
+      {
+        "L3": "MSH1311127"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14825,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000016349343",
+    "productColor": "Navy",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i9/437Wx649H/MP000000016349388_437Wx649H_202302022219191.jpeg",
+      "//img.tatacliq.com/images/i9/437Wx649H/MP000000016349388_437Wx649H_202302022219252.jpeg",
+      "//img.tatacliq.com/images/i9/437Wx649H/MP000000016349388_437Wx649H_202302022219213.jpeg",
+      "//img.tatacliq.com/images/i9/437Wx649H/MP000000016349388_437Wx649H_202302022219224.jpeg",
+      "//img.tatacliq.com/images/i9/437Wx649H/MP000000016349388_437Wx649H_202302022219245.jpeg",
+      "//img.tatacliq.com/images/i9/437Wx649H/MP000000016349388_437Wx649H_202302022219186.jpeg"
+    ]
+  },
+  {
+    "ussid": "127785RLO165138",
+    "brandname": "Red Tape",
+    "productId": "MP000000020021120",
+    "productname": "Red Tape Women's Drift + Black Running Shoes",
+    "imageURL": "//img.tatacliq.com/images/i14/437Wx649H/MP000000020021114_437Wx649H_202311101030031.jpeg",
+    "productCategoryType": "Footwear",
+    "compareProductType": "MSH1310123100",
+    "styleCode": "black9502158454785",
+    "galleryImagesList": [
+      {
+        "galleryImages": [
+          {
+            "value": "//img.tatacliq.com/images/i14/437Wx649H/MP000000020021114_437Wx649H_202311101030031.jpeg",
+            "key": "product"
+          }
+        ],
+        "mediaType": "Image"
+      }
+    ],
+    "inStockFlag": true,
+    "isOfferExisting": false,
+    "discountPercent": "70",
+    "cumulativeStockLevel": true,
+    "price": {
+      "isRange": false,
+      "sellingPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹2460.00",
+        "doubleValue": 2460,
+        "formattedValueNoDecimal": "₹2460",
+        "commaFormattedValue": "₹2,460.00",
+        "commaFormattedValueNoDecimal": "₹2,460",
+        "currencySymbol": "₹"
+      },
+      "mrpPrice": {
+        "currencyIso": "INR",
+        "formattedValue": "₹8199.00",
+        "doubleValue": 8199,
+        "formattedValueNoDecimal": "₹8199",
+        "commaFormattedValue": "₹8,199.00",
+        "commaFormattedValueNoDecimal": "₹8,199",
+        "currencySymbol": "₹"
+      }
+    },
+    "onlineExclusive": false,
+    "totalNoOfReviews": 0,
+    "ratingCount": 0,
+    "webURL": "/red-tape-womens-drift-black-running-shoes/p-mp000000020021120",
+    "orgProductCode": "MP000000020021123",
+    "showExchangeTag": false,
+    "exchangeOfferAvailable": false,
+    "productTitle": "Red Tape Women's Drift + Black Running Shoes",
+    "displayRatingReview": true,
+    "categoryHierarchy": [
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L1": "MSH13"
+      },
+      {
+        "L2": "MSH1310"
+      },
+      {
+        "L3": "MSH1310123"
+      },
+      {
+        "L4": "MSH1310123100"
+      }
+    ],
+    "cutsizeFlag": true,
+    "relevanceScore": 14817,
+    "compareEnabled": "false",
+    "productNudgeMessage": [],
+    "baseProductId": "MP000000020021112",
+    "productColor": "Black",
+    "productTagsList": [],
+    "productImages": [
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000020021114_437Wx649H_202311101030031.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000020021114_437Wx649H_202311101030142.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000020021114_437Wx649H_202311101030153.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000020021114_437Wx649H_202311101030174.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000020021114_437Wx649H_202311101030165.jpeg",
+      "//img.tatacliq.com/images/i14/437Wx649H/MP000000020021114_437Wx649H_202311101030136.jpeg"
+    ]
+  }
+]

@@ -8,6 +8,7 @@ import image7 from "/src/assets/grouped images/img (7).jpg";
 import image8 from "/src/assets/grouped images/img (8).jpg";
 import image9 from "/src/assets/grouped images/img (9).jpg";
 import image10 from "/src/assets/grouped images/img (10).jpg";
+import { Link } from "react-router-dom";
 
 const imagepath = [
   image1,
@@ -22,16 +23,27 @@ const imagepath = [
   image10,
 ];
 
+const Category = [
+  "westside",
+  "womenswear",
+  "menswear",
+  "footwear",
+  "watches",
+  "bags",
+  "home",
+  "kids",
+  "jewellery",
+  "gadgets",
+];
+
 const CategoryImages = () => {
   return (
     <div className="flex mt-16 gap-2 justify-center ">
       {imagepath.map((image, index) => {
         return (
-          <img
-            key={index}
-            className="rounded-2xl h-[115px] cursor-pointer"
-            src={image}
-          />
+          <Link key={index} to={`/${Category[index]}`}>
+            <img className="rounded-2xl h-[115px] cursor-pointer" src={image} />
+          </Link>
         );
       })}
     </div>

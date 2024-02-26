@@ -1,16 +1,19 @@
 import { IoIosArrowDown } from "react-icons/io";
 import { CiHeart } from "react-icons/ci";
 import { AiOutlineShoppingCart } from "react-icons/ai";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
     <div className="flex">
       <div className=" bg-slate-800 w-2/12 py-7 pl-14">
+        <Link to="/">
         <img
           className="w-16"
           alt="logo"
           src="http://www.pngimagesfree.com/LOGO/T/Tata-CLiQ/Tata-cliq-logo-PNG-White.png"
         />
+        </Link>
       </div>
       <div className="w-10/12">
         <div className="bg-black text-white flex justify-between p-2 text-sm px-4">
