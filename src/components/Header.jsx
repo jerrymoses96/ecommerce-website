@@ -3,9 +3,15 @@ import { CiHeart } from "react-icons/ci";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
+import { useContext } from "react";
+import { userContext } from "../App";
 
 const Header = () => {
   const CartItems = useSelector((store) => store.cart.items);
+  const { userdata, updateUserData } = useContext(userContext);
+  const handleLogout = () => {
+    updateUserData({ type: "LOGOUT" });
+  };
 
   return (
     <div className="flex sticky top-0">
@@ -27,7 +33,21 @@ const Header = () => {
               <li>Gift Card</li>
               <li>CLiQ Care</li>
               <li>Track Orders</li>
-              <li>Sign in / Sign Up</li>
+
+              {userdata ? (
+                <li
+                  className="border border-gray-100 rounded-md p-2 font-thin cursor-pointer"
+                  onClick={() => handleLogout()}
+                >
+                  Logout
+                </li>
+              ) : (
+                <Link to="/auth/login/">
+                  <li className="border border-gray-100 rounded-md p-2 font-thin">
+                    Login
+                  </li>
+                </Link>
+              )}
             </ul>
           </div>
         </div>

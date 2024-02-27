@@ -14,6 +14,8 @@ import Kids from "./components/Kids.jsx";
 import Jewellery from "./components/Jewellery.jsx";
 import Gadgets from "./components/Gadgets.jsx";
 import Cart from "./components/Cart.jsx";
+import SignUp from "./components/SignUp.jsx";
+import Login from "./components/Login.jsx";
 
 const appRouter = createBrowserRouter([
   {
@@ -67,6 +69,15 @@ const appRouter = createBrowserRouter([
       {
         path: "/cart",
         element: <Cart />,
+      },
+      {
+        path: "/auth/create",
+        element: <SignUp />,
+      },
+
+      {
+        path: "/auth/login",
+        element: <Login />,
       },
     ],
   },
