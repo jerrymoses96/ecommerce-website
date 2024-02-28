@@ -16,6 +16,8 @@ import Gadgets from "./components/Gadgets.jsx";
 import Cart from "./components/Cart.jsx";
 import SignUp from "./components/SignUp.jsx";
 import Login from "./components/Login.jsx";
+import Success from "./components/Success.jsx";
+import Cancel from "./components/Cancel.jsx";
 
 const appRouter = createBrowserRouter([
   {
@@ -79,6 +81,14 @@ const appRouter = createBrowserRouter([
         path: "/auth/login",
         element: <Login />,
       },
+      {
+        path: "/success",
+        element: <Success />,
+      },
+      {
+        path: "/cancel",
+        element: <Cancel />,
+      }
     ],
   },
 ]);

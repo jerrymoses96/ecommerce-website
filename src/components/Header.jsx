@@ -3,10 +3,29 @@ import { CiHeart } from "react-icons/ci";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
-import { useContext } from "react";
+import { useContext, useState } from "react";
 import { userContext } from "../App";
 
 const Header = () => {
+  const [isOpen, setIsOpen] = useState(false);
+  const categories = [
+    "Women's Fashion",
+    "Men's Fashion",
+    "Kid's fashion",
+    "Home & kitchen",
+    "Beauty",
+    "Gadgets",
+    "Jewellery",
+    "Accessories",
+  ];
+
+  const openDropdown = () => {
+    setIsOpen(true);
+    console.log("clicked");
+  };
+  const closeDropdown=()=>{
+    setIsOpen(false);
+  }
   const CartItems = useSelector((store) => store.cart.items);
   const { userdata, updateUserData } = useContext(userContext);
   const handleLogout = () => {
@@ -14,7 +33,7 @@ const Header = () => {
   };
 
   return (
-    <div className="flex sticky top-0">
+    <div className="flex">
       <div className=" bg-slate-800 w-2/12 py-7 pl-14">
         <Link to="/">
           <img
@@ -52,7 +71,11 @@ const Header = () => {
           </div>
         </div>
         <div className="bg-slate-800 text-white flex py-4 justify-between px-4 items-center">
-          <p className="flex items-center">
+          <p
+            className="flex items-center cursor-pointer p-3 px-4 hover:bg-white hover:text-black"
+            onMouseOver={openDropdown}
+            onMouseOut={closeDropdown}
+          >
             Categories <IoIosArrowDown />
           </p>
           <p className="flex items-center">
@@ -81,6 +104,21 @@ const Header = () => {
               </p>
             </div>
           </div>
+          {/* Dropdown menu */}
+          {isOpen && (
+            <ul className=" absolute top-28 left-[226px] bg-white shadow-md  overflow-hidden w-96 z-50">
+              {console.log("clicked 2")}
+              {categories.map((category) => (
+                <li
+                  key={category}
+                  className="hover:bg-gray-100 px-3 py-2 cursor-pointer text-black"
+                >
+                  {category}
+                  {console.log(category)}
+                </li>
+              ))}
+            </ul>
+          )}
         </div>
       </div>
     </div>
