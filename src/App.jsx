@@ -5,6 +5,8 @@ import { Outlet } from "react-router-dom";
 import { Provider } from "react-redux";
 import AppStore from "./utils/AppStore";
 import React, { useContext, useEffect, useState } from "react";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 export const userContext = React.createContext();
 
@@ -35,6 +37,18 @@ const App = () => {
           <Outlet />
           <Footer />
         </div>
+        <ToastContainer
+          position="top-center"
+          autoClose={1000}
+          hideProgressBar={false}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+          theme="dark"
+        />
       </Provider>
     </userContext.Provider>
   );

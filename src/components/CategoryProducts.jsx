@@ -7,7 +7,7 @@ import PropTypes from "prop-types";
 import { IoMdStar } from "react-icons/io";
 import { useDispatch } from "react-redux";
 import { addItems } from "../utils/CartSlice";
-
+import { toast } from "react-toastify";
 const CategoryProducts = ({ id }) => {
   const [maindata, setMaindata] = useState([]);
 
@@ -15,6 +15,16 @@ const CategoryProducts = ({ id }) => {
 
   const handleClick = (item) => {
     dispatch(addItems(item));
+    toast.success(`"${item.productTitle}" added to your cart!`, {
+      position: "top-center",
+      autoClose: 1000,
+      hideProgressBar: false,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+      theme: "dark",
+    });
   };
 
   useEffect(() => {
@@ -57,7 +67,7 @@ const CategoryProducts = ({ id }) => {
           return (
             <div
               key={index}
-              className="border  w-[200px] rounded-2xl card-container hover:shadow-xl"
+              className="border  w-[220px] rounded-2xl card-container hover:shadow-xl"
             >
               <Slider
                 dots={false}
@@ -73,7 +83,7 @@ const CategoryProducts = ({ id }) => {
                 {productImages.map((image, i) => (
                   <div key={i}>
                     <img
-                      className="rounded-2xl  "
+                      className="rounded-t-2xl   "
                       src={image}
                       alt={productTitle}
                     />
@@ -104,17 +114,17 @@ const CategoryProducts = ({ id }) => {
                   </span>
                 </div>
 
-                <p className="text-orange-700 font-normal">
-                  {productNudgeMessage.length > 0 && "Limited stock!"}
-                </p>
                 <div className="text-center">
                   <button
-                    className="border-2 border-red-600 rounded-r-full rounded-l-full text-base font-extralight px-2"
+                    className="border-2 bg-black  text-white w-[100%] rounded-xl text-base font-extralight py-3"
                     onClick={() => handleClick(item)}
                   >
                     ADD TO CART
                   </button>
                 </div>
+                <p className="text-orange-700 font-normal text-center">
+                  {productNudgeMessage.length > 0 && "Limited stock!"}
+                </p>
               </div>
             </div>
           );
