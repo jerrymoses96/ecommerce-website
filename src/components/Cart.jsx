@@ -92,7 +92,6 @@ const Cart = () => {
                 <div className="h-[100%]">
                   <img className="h-[100%] rounded-l-xl" src={item.imageURL} />
                 </div>
-                {console.log(item)}
                 <div>
                   <p className="font-light">{item.productname}</p>
 

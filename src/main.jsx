@@ -19,6 +19,7 @@ import Login from "./components/Login.jsx";
 import Cancel from "./components/Cancel.jsx";
 import ThankYouEmail from "./components/ThankYouEmail.jsx";
 import OrderDetails from "./components/OrderDetails.jsx";
+import SearchComponent from "./components/SearchComponent.jsx";
 
 const appRouter = createBrowserRouter([
   {
@@ -88,12 +89,16 @@ const appRouter = createBrowserRouter([
       },
       {
         path: "/cancel",
-        element: <Cancel />,
+        element: <Cart />,
       },
       {
         path: "/orderdetails",
         element: <OrderDetails />,
       },
+      {
+        path : "/search",
+        element:<SearchComponent/>
+      }
     ],
   },
 ]);

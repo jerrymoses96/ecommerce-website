@@ -11,9 +11,25 @@ import { PersistGate } from "redux-persist/integration/react";
 import { persistStore } from "redux-persist";
 
 let persistor = persistStore(AppStore);
+
+// for search functionality
+
+export const SearchContext = React.createContext("");
+
 export const userContext = React.createContext();
 
 const App = () => {
+  // search
+
+  const [searchText, setSearchText] = useState("");
+
+  const handleSearchChange = (text) => {
+    console.log(text);
+    setSearchText(text);
+    console.log(searchText);
+  };
+
+  //
   const [userdata, setuserdata] = useState({});
   const updateUserData = (action) => {
     switch (action.type) {
@@ -36,23 +52,25 @@ const App = () => {
     <userContext.Provider value={{ userdata, updateUserData }}>
       <Provider store={AppStore}>
         <PersistGate persistor={persistor}>
-          <div className="overflow-x-hidden w-[100%] ">
-            <Header />
-            <Outlet />
-            <Footer />
-          </div>
-          <ToastContainer
-            position="top-center"
-            autoClose={1000}
-            hideProgressBar={false}
-            newestOnTop={false}
-            closeOnClick
-            rtl={false}
-            pauseOnFocusLoss
-            draggable
-            pauseOnHover
-            theme="dark"
-          />
+          <SearchContext.Provider value={{ searchText, handleSearchChange }}>
+            <div className="overflow-x-hidden w-[100%] ">
+              <Header />
+              <Outlet />
+              <Footer />
+            </div>
+            <ToastContainer
+              position="top-center"
+              autoClose={1000}
+              hideProgressBar={false}
+              newestOnTop={false}
+              closeOnClick
+              rtl={false}
+              pauseOnFocusLoss
+              draggable
+              pauseOnHover
+              theme="dark"
+            />
+          </SearchContext.Provider>
         </PersistGate>
       </Provider>
     </userContext.Provider>

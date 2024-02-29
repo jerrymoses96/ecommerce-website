@@ -1,13 +1,29 @@
 import { IoIosArrowDown } from "react-icons/io";
 import { CiHeart } from "react-icons/ci";
 import { AiOutlineShoppingCart } from "react-icons/ai";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
-import { useContext, useState } from "react";
-import { userContext } from "../App";
+import { useContext, useEffect, useState } from "react";
+import { SearchContext, userContext } from "../App";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
+
+  const navigate = useNavigate();
+
+  const { searchText, handleSearchChange } = useContext(SearchContext);
+
+  const handleInputChange = (event) => {
+    console.log(event.target.value);
+    handleSearchChange(event.target.value);
+    if (event.target.value) {
+      navigate("/search");
+    } else {
+      navigate("/");
+    }
+  };
+ 
+  
   const categories = [
     "Women's Fashion",
     "Men's Fashion",
@@ -21,11 +37,10 @@ const Header = () => {
 
   const openDropdown = () => {
     setIsOpen(true);
-    console.log("clicked");
   };
-  const closeDropdown=()=>{
+  const closeDropdown = () => {
     setIsOpen(false);
-  }
+  };
   const CartItems = useSelector((store) => store.cart.items);
   const { userdata, updateUserData } = useContext(userContext);
   const handleLogout = () => {
@@ -51,7 +66,9 @@ const Header = () => {
               <li>CLiq Cash</li>
               <li>Gift Card</li>
               <li>CLiQ Care</li>
-              <li>Track Orders</li>
+              <Link to="/orderdetails">
+                <li>Track Orders</li>
+              </Link>
 
               {userdata ? (
                 <li
@@ -81,15 +98,16 @@ const Header = () => {
           <p className="flex items-center">
             Brands <IoIosArrowDown />{" "}
           </p>
-          <form action="/search" method="get">
-            <input
-              className="bg-gray-600 w-[600px] p-2 rounded-lg focus:bg-white text-black"
-              type="search"
-              name="q"
-              placeholder="Search for brands"
-              required
-            />
-          </form>
+
+          <input
+            value={searchText}
+            onChange={handleInputChange}
+            type="search"
+            className="bg-gray-600 w-[600px] p-2 rounded-lg focus:bg-white text-black"
+            placeholder="Search for brands"
+            required
+          />
+
           <div className="flex gap-5    ">
             <CiHeart
               className="hover:scale-125 transition-transform duration-200 ease-in-out"
@@ -107,14 +125,12 @@ const Header = () => {
           {/* Dropdown menu */}
           {isOpen && (
             <ul className=" absolute top-28 left-[226px] bg-white shadow-md  overflow-hidden w-96 z-50">
-              {console.log("clicked 2")}
               {categories.map((category) => (
                 <li
                   key={category}
                   className="hover:bg-gray-100 px-3 py-2 cursor-pointer text-black"
                 >
                   {category}
-                  {console.log(category)}
                 </li>
               ))}
             </ul>
