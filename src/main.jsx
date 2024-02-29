@@ -16,8 +16,9 @@ import Gadgets from "./components/Gadgets.jsx";
 import Cart from "./components/Cart.jsx";
 import SignUp from "./components/SignUp.jsx";
 import Login from "./components/Login.jsx";
-import Success from "./components/Success.jsx";
 import Cancel from "./components/Cancel.jsx";
+import ThankYouEmail from "./components/ThankYouEmail.jsx";
+import OrderDetails from "./components/OrderDetails.jsx";
 
 const appRouter = createBrowserRouter([
   {
@@ -83,12 +84,16 @@ const appRouter = createBrowserRouter([
       },
       {
         path: "/success",
-        element: <Success />,
+        element: <ThankYouEmail />,
       },
       {
         path: "/cancel",
         element: <Cancel />,
-      }
+      },
+      {
+        path: "/orderdetails",
+        element: <OrderDetails />,
+      },
     ],
   },
 ]);
