@@ -3,6 +3,24 @@ import { useSelector } from "react-redux";
 
 const OrderDetails = () => {
   const cartItems = useSelector((store) => store.cart.items);
+
+  // Function to get the current date in the desired format (YYYY-MM-DD)
+  const getCurrentDate = () => {
+    const currentDate = new Date();
+    const year = currentDate.getFullYear();
+    const month = String(currentDate.getMonth() + 1).padStart(2, "0");
+    const day = String(currentDate.getDate()).padStart(2, "0");
+    return `${year}-${month}-${day}`;
+  };
+
+  // Function to format the estimated delivery date
+  const getEstimatedDeliveryDate = () => {
+    const currentDate = new Date();
+    currentDate.setDate(currentDate.getDate() + 15); // Adding 75 days for estimation
+    const options = { year: "numeric", month: "long", day: "numeric" };
+    return currentDate.toLocaleDateString("en-US", options);
+  };
+
   return (
     <div className="bg-white rounded-lg shadow-md p-4 w-2/3  mx-auto">
       <div className="flex justify-between border-b pb-2">
@@ -10,7 +28,7 @@ const OrderDetails = () => {
       </div>
       <div className="py-4">
         <div className="flex justify-between">
-          <h2 className="text-lg font-medium">ORDER ID : 362183762973</h2>
+          <h2 className="text-lg font-medium">ORDER ID : 7DVJGTZLSK</h2>
           <div>
             <button className="border border-gray-500 font-semibold rounded-lg px-4 py-1 mr-2 hover:bg-gray-100">
               Invoice
@@ -21,9 +39,11 @@ const OrderDetails = () => {
           </div>
         </div>
         {/* Replace with actual date information */}
-        <p className="text-gray-500 mb-2">Order date: 2024-02-29</p>
+        <p className="text-gray-500 mb-2">Order date: {getCurrentDate()}</p>
         {/* Replace with estimated delivery information */}
-        <p className="text-green-500">Estimated delivery: May 14, 2022</p>
+        <p className="text-green-500">
+          Estimated delivery:{getEstimatedDeliveryDate()}
+        </p>
       </div>
       <div className="border-b pb-2">
         <h2 className="text-lg font-medium mb-2">Items</h2>

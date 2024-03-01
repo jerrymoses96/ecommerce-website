@@ -19,5 +19,5 @@ const persistedReducer = persistReducer(persistConfig, reducer);
 const AppStore = configureStore({
   reducer: persistedReducer
 });
-
+      
 export default AppStore;

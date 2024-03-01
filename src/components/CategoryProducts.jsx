@@ -8,6 +8,8 @@ import { IoMdStar } from "react-icons/io";
 import { useDispatch } from "react-redux";
 import { addItems } from "../utils/CartSlice";
 import { toast } from "react-toastify";
+import { Link } from "react-router-dom";
+
 const CategoryProducts = ({ id }) => {
   const [maindata, setMaindata] = useState([]);
 
@@ -69,27 +71,30 @@ const CategoryProducts = ({ id }) => {
               key={index}
               className="border  w-[220px] rounded-2xl card-container hover:shadow-xl"
             >
-              <Slider
-                dots={false}
-                infinite
-                speed={500}
-                slidesToShow={1}
-                slidesToScroll={1}
-                prevArrow={
-                  <div className="slick-arrow slick-prev">Previous</div>
-                }
-                nextArrow={<div className="slick-arrow slick-next">Next</div>}
-              >
-                {productImages.map((image, i) => (
-                  <div key={i}>
-                    <img
-                      className="rounded-t-2xl   "
-                      src={image}
-                      alt={productTitle}
-                    />
-                  </div>
-                ))}
-              </Slider>
+              
+              <Link to={`/viewproduct/${item.ussid}`}>
+                <Slider
+                  dots={false}
+                  infinite
+                  speed={500}
+                  slidesToShow={1}
+                  slidesToScroll={1}
+                  prevArrow={
+                    <div className="slick-arrow slick-prev">Previous</div>
+                  }
+                  nextArrow={<div className="slick-arrow slick-next">Next</div>}
+                >
+                  {productImages.map((image, i) => (
+                    <div key={i}>
+                      <img
+                        className="rounded-t-2xl   "
+                        src={image}
+                        alt={productTitle}
+                      />
+                    </div>
+                  ))}
+                </Slider>
+              </Link>
               <div className="p-2">
                 <p className="font-bold text-base">{item.brandname}</p>
                 <p className="font-thin text-sm h-16">{productTitle}</p>
@@ -127,6 +132,8 @@ const CategoryProducts = ({ id }) => {
                 </p>
               </div>
             </div>
+
+            //
           );
         })
       ) : (
