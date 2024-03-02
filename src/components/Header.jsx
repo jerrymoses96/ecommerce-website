@@ -17,7 +17,7 @@ const Header = () => {
   const navigate = useNavigate();
   const { searchText, handleSearchChange } = useContext(SearchContext);
   const CartItems = useSelector((store) => store.cart.items);
-  const { userData, updateUserData } = useContext(userContext);
+  const { userdata, updateUserData } = useContext(userContext);
 
   // Animated spring for dropdown animation
   const animation = useSpring({
@@ -73,10 +73,10 @@ const Header = () => {
               <Link to="/orderdetails">
                 <li>Track Orders</li>
               </Link>
-              {userData ? (
+              {userdata ? (
                 <li
                   className="border border-gray-100 rounded-md p-2 font-thin cursor-pointer"
-                  onClick={handleLogout}
+                  onClick={()=>handleLogout()}
                 >
                   Logout
                 </li>

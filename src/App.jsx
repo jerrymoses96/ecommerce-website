@@ -29,14 +29,14 @@ const App = () => {
     console.log(searchText);
   };
 
-  //
+  //authentication
   const [userdata, setuserdata] = useState({});
   const updateUserData = (action) => {
     switch (action.type) {
       case "LOGOUT":
         setuserdata(null);
         localStorage.clear();
-        break;
+        break;  
       case "LOGIN":
         setuserdata(action.payload);
         break;
@@ -48,6 +48,7 @@ const App = () => {
   useEffect(() => {
     setuserdata(JSON.parse(localStorage.getItem("user_data")));
   }, []);
+  
   return (
     <userContext.Provider value={{ userdata, updateUserData }}>
       <Provider store={AppStore}>
