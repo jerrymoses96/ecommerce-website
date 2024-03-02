@@ -7,6 +7,8 @@ import { AiOutlineShoppingCart } from "react-icons/ai";
 import { animated, useSpring } from "react-spring";
 import { SearchContext, userContext } from "../App";
 import { categories, brands } from "../utils/constants";
+import { toast } from "react-toastify";
+
 
 const Header = () => {
   // State variables
@@ -45,6 +47,16 @@ const Header = () => {
 
   const handleLogout = () => {
     updateUserData({ type: "LOGOUT" });
+    toast.success(`logged out of your account!`, {
+      position: "top-center",
+      autoClose: 1000,
+      hideProgressBar: false,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+      theme: "dark",
+    });
   };
 
   return (

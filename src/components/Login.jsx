@@ -3,6 +3,8 @@ import axios from "axios";
 import { BASE_URL } from "../utils/constants";
 import { useContext, useState } from "react"; 
 import { userContext } from "../App";
+import { toast } from "react-toastify";
+
 
 
 
@@ -24,6 +26,16 @@ export default function Login() {
         localStorage.setItem("user_data", JSON.stringify(data));
         updateUserData({ type: "LOGIN",payload:data })
         navigate("/")
+        toast.success(`logged in to your account!`, {
+          position: "top-center",
+          autoClose: 1000,
+          hideProgressBar: false,
+          closeOnClick: true,
+          pauseOnHover: true,
+          draggable: true,
+          progress: undefined,
+          theme: "dark",
+        });
       })
       .catch((error) => {
         console.log(error.response.status);

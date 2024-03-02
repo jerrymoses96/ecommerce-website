@@ -6,6 +6,7 @@ import { GiShoppingCart } from "react-icons/gi";
 import { useDispatch } from "react-redux";
 import { addItems } from "../utils/CartSlice";
 import Shimmer from "../utils/Shimmer";
+import { toast } from "react-toastify";
 
 const ViewProduct = () => {
   const [itemdata, setItemData] = useState([]);
@@ -15,6 +16,16 @@ const ViewProduct = () => {
 
   const handleclick = () => {
     dispatch(addItems(filterdata[0]));
+    toast.success(`"${filterdata[0].productTitle}" added to your cart!`, {
+      position: "top-center",
+      autoClose: 1000,
+      hideProgressBar: false,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+      theme: "dark",
+    });
   };
 
   useEffect(() => {
@@ -88,7 +99,7 @@ const ViewProduct = () => {
           </div>
         </div>
       ) : (
-        <Shimmer/>
+        <Shimmer />
       )}
     </div>
   );
