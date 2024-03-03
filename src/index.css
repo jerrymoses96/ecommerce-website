@@ -58,3 +58,14 @@
 .slick-next {
   right: -10px; /* Position the next arrow */
 }
+
+/* CSS for sliding animation of placeholder text */
+.search-input::placeholder {
+  transition: all 0.5s ease; /* Adjust duration and easing as needed */
+  opacity: 1;
+}
+
+.search-input:focus::placeholder {
+  opacity: 0;
+  transform: translateY(-100%);
+}

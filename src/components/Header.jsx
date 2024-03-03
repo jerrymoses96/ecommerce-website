@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 import { IoIosArrowDown, IoIosArrowUp } from "react-icons/io";
@@ -9,17 +9,36 @@ import { SearchContext, userContext } from "../App";
 import { categories, brands } from "../utils/constants";
 import { toast } from "react-toastify";
 
-
 const Header = () => {
   // State variables
   const [isOpenCategories, setIsOpenCategories] = useState(false);
   const [isOpenBrands, setIsOpenBrands] = useState(false);
+  const [isPlaceholderChanging, setIsPlaceholderChanging] = useState(false);
 
   // Hooks
   const navigate = useNavigate();
   const { searchText, handleSearchChange } = useContext(SearchContext);
   const CartItems = useSelector((store) => store.cart.items);
+  const [placeholderIndex, setPlaceholderIndex] = useState(0);
   const { userdata, updateUserData } = useContext(userContext);
+
+  const placeholders = ["Brands", "Products", "Categories"];
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setIsPlaceholderChanging(true);
+      setTimeout(() => {
+        setPlaceholderIndex(
+          (prevIndex) => (prevIndex + 1) % placeholders.length
+        );
+        setIsPlaceholderChanging(false);
+      }, 2700); // Adjust animation duration as needed
+    }, 3000); // Change placeholder every 3 seconds
+
+    return () => {
+      clearInterval(interval);
+    };
+  }, []);
 
   // Animated spring for dropdown animation
   const animation = useSpring({
@@ -62,7 +81,7 @@ const Header = () => {
   return (
     <div className="flex">
       {/* Logo */}
-      <div className="bg-slate-800 w-2/12 py-7 pl-14">
+      <div className="bg-slate-800 w-2/12 pt-12 pl-16">
         <Link to="/">
           <img
             className="w-16"
@@ -88,7 +107,7 @@ const Header = () => {
               {userdata ? (
                 <li
                   className="border border-gray-100 rounded-md p-2 font-thin cursor-pointer"
-                  onClick={()=>handleLogout()}
+                  onClick={() => handleLogout()}
                 >
                   Logout
                 </li>
@@ -126,13 +145,15 @@ const Header = () => {
             value={searchText}
             onChange={handleInputChange}
             type="search"
-            className="bg-gray-600 w-[600px] p-2 rounded-lg focus:bg-white text-black"
-            placeholder="Search for brands"
+            className={`search-input bg-gray-600 w-[600px] p-2 rounded-lg focus:bg-white text-black transition-opacity duration-500 ease-in-out relative`}
+            placeholder={`search for ${
+              isPlaceholderChanging ? placeholders[placeholderIndex] : ""
+            }`}
             required
           />
 
           {/* Cart and Favorites */}
-          <div className="flex gap-5">
+          <div className="flex gap-5 pr-2">
             <CiHeart
               className="hover:scale-125 transition-transform duration-200 ease-in-out"
               size={28}
