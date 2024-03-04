@@ -1,13 +1,29 @@
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
 
-const DropdownCheckboxes = ({ options, onChange }) => {
+const DropdownCheckboxes = ({onChange }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [selectedValues, setSelectedValues] = useState([]);
 
   const toggleDropdown = () => {
     setIsOpen(!isOpen);
   };
+
+  const options = [
+    { value: "adidas", label: "adidas" },
+    { value: "Red Tape", label: "Red Tape" },
+    { value: "Puma", label: "Puma" },
+    { value: "Aldo", label: "Aldo" },
+    { value: "U.S. Polo Assn.", label: "U.S. Polo Assn." },
+    { value: "Woodland", label: "Woodland" },
+    { value: "Styli", label: "Styli" },
+    { value: "Metro", label: "Metro" },
+    { value: "Sparx", label: "Sparx" },
+    { value: "Campus", label: "Campus" },
+    { value: "Asics", label: "Asics" },
+    { value: "Bata", label: "Bata" },
+    { value: "Crocs", label: "Crocs" },
+  ];
 
   const handleChange = (value) => {
     const newSelectedValues = selectedValues.includes(value)

@@ -11,12 +11,14 @@ import { toast } from "react-toastify";
 import { Link } from "react-router-dom";
 import DropdownCheckboxes from "../utils/DropdownCheckboxes";
 import RatingFilterDropdown from "../utils/RatingFilterDropdown";
+import PriceFilterDropdown from "../utils/PriceFilterDropdown";
 
 const CategoryProducts = ({ id }) => {
   const [maindata, setMaindata] = useState([]);
   const [selectedSort, setSelectedSort] = useState("relevance");
   const [selectedBrands, setSelectedBrands] = useState([]);
   const [selectedRatings, setSelectedRatings] = useState([]);
+  const [selectedPriceRange, setSelectedPriceRange] = useState(null); // State for selected price range
 
   const dispatch = useDispatch();
 
@@ -28,21 +30,19 @@ const CategoryProducts = ({ id }) => {
     { value: "discounts", label: "Discounts" },
   ]);
 
-  const options = [
-    { value: "adidas", label: "adidas" },
-    { value: "Red Tape", label: "Red Tape" },
-    { value: "Puma", label: "Puma" },
-    { value: "Aldo", label: "Aldo" },
-    { value: "U.S. Polo Assn.", label: "U.S. Polo Assn." },
-    { value: "Woodland", label: "Woodland" },
-    { value: "Styli", label: "Styli" },
-    { value: "Metro", label: "Metro" },
-    { value: "Sparx", label: "Sparx" },
-    { value: "Campus", label: "Campus" },
-    { value: "Asics", label: "Asics" },
-    { value: "Bata", label: "Bata" },
-    { value: "Crocs", label: "Crocs" },
+  const priceRanges = [
+    { min: 0, max: 1000, label: "Under ₹1000" },
+    { min: 1000, max: 2000, label: "₹1000 - ₹2000" },
+    { min: 2000, max: 3000, label: "₹2000 - ₹3000" },
+    { min: 3000, max: 5000, label: "₹3000 - ₹5000" },
+    { min: 5000, max: 10000, label: "₹5000 - ₹10000" },
+    { min: 10000, max: 20000, label: "₹10000 - ₹20000" },
+    { min: 20000, max: Infinity, label: "Over ₹20000" },
   ];
+
+  const handlePriceFilterChange = (selectedPriceRangeIndex) => {
+    setSelectedPriceRange(selectedPriceRangeIndex); // Update state
+  };
 
   const sortProducts = (data, sortBy) => {
     switch (sortBy) {
@@ -95,9 +95,19 @@ const CategoryProducts = ({ id }) => {
 
     // Apply filtering based on selected ratings
     if (selectedRatings.length > 0) {
-      filteredData = filteredData.filter((product) =>
-        selectedRatings.includes(product.averageRating)
-      );
+      filteredData = filteredData.filter((product) => {
+        const averageRating = product.averageRating;
+        return selectedRatings.some((rating) => rating <= averageRating);
+      });
+    }
+
+     // Apply price filtering based on selectedPriceRange
+    if (selectedPriceRange !== null) {
+      const selectedRange = priceRanges[selectedPriceRange];
+      filteredData = filteredData.filter((product) => {
+        const sellingPrice = product.price.sellingPrice.doubleValue;
+        return sellingPrice >= selectedRange.min && sellingPrice < selectedRange.max;
+      });
     }
 
     // Apply sorting
@@ -133,8 +143,10 @@ const CategoryProducts = ({ id }) => {
     <div className="flex flex-col">
       <div className="flex justify-between items-center">
         <div className="pl-10 pt-10 flex gap-5">
-          <DropdownCheckboxes options={options} onChange={setSelectedBrands} />
+          <DropdownCheckboxes onChange={setSelectedBrands} />
           <RatingFilterDropdown onChange={setSelectedRatings} />
+          <PriceFilterDropdown priceRanges={priceRanges} onChange={handlePriceFilterChange} />{" "}
+          {/* Integrate PriceFilterDropdown */}
         </div>
 
         <div className="self-end pt-10 pr-10">
