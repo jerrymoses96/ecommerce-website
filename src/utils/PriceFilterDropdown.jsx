@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 const PriceFilterDropdown = ({priceRanges, onChange }) => {
   const [isOpen, setIsOpen] = useState(false);

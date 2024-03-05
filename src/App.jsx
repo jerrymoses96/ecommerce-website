@@ -18,10 +18,14 @@ export const SearchContext = React.createContext("");
 
 export const userContext = React.createContext();
 
+export const orderContext = React.createContext();
+
 const App = () => {
   // search
 
   const [searchText, setSearchText] = useState("");
+
+  const [order,setorder]=useState(false);
 
   const handleSearchChange = (text) => {
     console.log(text);
@@ -51,6 +55,7 @@ const App = () => {
   
   return (
     <userContext.Provider value={{ userdata, updateUserData }}>
+      <orderContext.Provider value={{setorder,order}}>
       <Provider store={AppStore}>
         <PersistGate persistor={persistor}>
           <SearchContext.Provider value={{ searchText, handleSearchChange }}>
@@ -74,6 +79,7 @@ const App = () => {
           </SearchContext.Provider>
         </PersistGate>
       </Provider>
+      </orderContext.Provider>
     </userContext.Provider>
   );
 };

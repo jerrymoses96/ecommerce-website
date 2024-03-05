@@ -1,8 +1,12 @@
-import React from "react";
+import React, { useContext } from "react";
 import { useSelector } from "react-redux";
+import { orderContext } from "../App";
 
 const OrderDetails = () => {
   const cartItems = useSelector((store) => store.cart.items);
+
+  const {order} = useContext(orderContext);
+
 
   // Function to get the current date in the desired format (YYYY-MM-DD)
   const getCurrentDate = () => {
@@ -20,8 +24,11 @@ const OrderDetails = () => {
     const options = { year: "numeric", month: "long", day: "numeric" };
     return currentDate.toLocaleDateString("en-US", options);
   };
+  
+ 
 
-  return (
+  return order? (
+    
     <div className="bg-white rounded-lg shadow-md p-4 w-2/3  mx-auto">
       <div className="flex justify-between border-b pb-2">
         <h1 className="text-xl font-medium">Order Details</h1>
@@ -89,7 +96,7 @@ const OrderDetails = () => {
         </p>
       </div>
     </div>
-  );
+  ): null;
 };
 
 // Function to calculate the total order amount

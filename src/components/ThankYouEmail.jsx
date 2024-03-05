@@ -1,7 +1,16 @@
 import { Link } from "react-router-dom";
 import thankyouimage from "../assets/orderconfirm.png";
 import { TiTick } from "react-icons/ti";
+import { useContext } from "react";
+import { orderContext } from "../App";
+
 const ThankYouEmail = () => {
+  const { setorder } = useContext(orderContext);
+
+  const handleclick = () => {
+    setorder(true);
+  };
+
   return (
     <div className=" flex items-center gap-20    justify-center mt-10 mb-40">
       <img className="w-[400px]" src={thankyouimage} />
@@ -38,7 +47,10 @@ const ThankYouEmail = () => {
           </button>
         </Link>
         <Link to="/orderdetails">
-          <button className="bg-green-700 hover:bg-green-900 text-white font-light py-2 px-6 rounded">
+          <button
+            onClick={handleclick}
+            className="bg-green-700 hover:bg-green-900 text-white font-light py-2 px-6 rounded"
+          >
             ORDER DETAILS
           </button>
         </Link>
