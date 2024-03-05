@@ -7,6 +7,7 @@ import { useDispatch } from "react-redux";
 import { addItems } from "../utils/CartSlice";
 import Shimmer from "../utils/Shimmer";
 import { toast } from "react-toastify";
+import ProductReview from "./ProductReview";
 
 const ViewProduct = () => {
   const [itemdata, setItemData] = useState([]);
@@ -51,8 +52,10 @@ const ViewProduct = () => {
   console.log(filterdata);
 
   return (
+    
     <div className="pt-20 pb-56">
       {filterdata.length === 1 ? (
+        <div>
         <div className="flex justify-center items-center gap-20">
           <div className="flex flex-col gap-7">
             <img
@@ -98,10 +101,16 @@ const ViewProduct = () => {
             </button>
           </div>
         </div>
+        <div>
+          <ProductReview id={filterdata[0].productId} />
+        </div>
+        </div>
+        
       ) : (
         <Shimmer />
       )}
     </div>
+    
   );
 };
 
